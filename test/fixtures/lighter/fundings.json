@@ -1,0 +1,150 @@
+{
+  "code": 200,
+  "resolution": "1h",
+  "fundings": [
+    {
+      "timestamp": 1791500400,
+      "value": "0.49137600",
+      "rate": "0.0006",
+      "direction": "short"
+    },
+    {
+      "timestamp": 1791504000,
+      "value": "0.32701760",
+      "rate": "0.0004",
+      "direction": "short"
+    },
+    {
+      "timestamp": 1791507600,
+      "value": "0.08181190",
+      "rate": "0.0001",
+      "direction": "long"
+    },
+    {
+      "timestamp": 1791511200,
+      "value": "0.08197920",
+      "rate": "0.0001",
+      "direction": "long"
+    },
+    {
+      "timestamp": 1791514800,
+      "value": "0.65693600",
+      "rate": "0.0008",
+      "direction": "long"
+    },
+    {
+      "timestamp": 1791518400,
+      "value": "0.90666730",
+      "rate": "0.0011",
+      "direction": "long"
+    },
+    {
+      "timestamp": 1791522000,
+      "value": "0.16449280",
+      "rate": "0.0002",
+      "direction": "short"
+    },
+    {
+      "timestamp": 1791525600,
+      "value": "0.49423260",
+      "rate": "0.0006",
+      "direction": "short"
+    },
+    {
+      "timestamp": 1791529200,
+      "value": "0.00000000",
+      "rate": "0.0000",
+      "direction": "long"
+    },
+    {
+      "timestamp": 1791532800,
+      "value": "0.16532420",
+      "rate": "0.0002",
+      "direction": "long"
+    },
+    {
+      "timestamp": 1791536400,
+      "value": "0.08269890",
+      "rate": "0.0001",
+      "direction": "short"
+    },
+    {
+      "timestamp": 1791540000,
+      "value": "0.41326350",
+      "rate": "0.0005",
+      "direction": "long"
+    },
+    {
+      "timestamp": 1791543600,
+      "value": "0.08256370",
+      "rate": "0.0001",
+      "direction": "short"
+    },
+    {
+      "timestamp": 1791547200,
+      "value": "0.33300200",
+      "rate": "0.0004",
+      "direction": "long"
+    },
+    {
+      "timestamp": 1791550800,
+      "value": "0.08302670",
+      "rate": "0.0001",
+      "direction": "short"
+    },
+    {
+      "timestamp": 1791554400,
+      "value": "0.57838410",
+      "rate": "0.0007",
+      "direction": "long"
+    },
+    {
+      "timestamp": 1791558000,
+      "value": "0.66434960",
+      "rate": "0.0008",
+      "direction": "long"
+    },
+    {
+      "timestamp": 1791561600,
+      "value": "0.00000000",
+      "rate": "0.0000",
+      "direction": "long"
+    },
+    {
+      "timestamp": 1791565200,
+      "value": "0.16549520",
+      "rate": "0.0002",
+      "direction": "short"
+    },
+    {
+      "timestamp": 1791568800,
+      "value": "0.24815310",
+      "rate": "0.0003",
+      "direction": "long"
+    },
+    {
+      "timestamp": 1791572400,
+      "value": "0.49471740",
+      "rate": "0.0006",
+      "direction": "short"
+    },
+    {
+      "timestamp": 1791576000,
+      "value": "0.08231920",
+      "rate": "0.0001",
+      "direction": "short"
+    },
+    {
+      "timestamp": 1791579600,
+      "value": "0.99013200",
+      "rate": "0.0012",
+      "direction": "long"
+    },
+    {
+      "timestamp": 1791583200,
+      "value": "0.99044520",
+      "rate": "0.0012",
+      "direction": "long"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "sessions": [
+    {
+      "id": "cme_commodities",
+      "name": "CME commodities",
+      "timezone": "America/New_York",
+      "hours": "America/New_York;0000-1700&1800-2400,0000-1700&1800-2400,0000-1700&1800-2400,0000-1700&1800-2400,0000-1700,C,1800-2400;0119/0000-1430&1800-2400,0216/0000-1430&1800-2400,0402/0000-1700,0403/C,0525/0000-1430&1800-2400,0619/0000-1300,0703/0000-1300,0907/0000-1430&1800-2400,1126/0000-1430&1800-2400,1127/0000-1445,1224/0000-1345,1225/C,1231/0000-1700,0101/C",
+      "isOpen": false,
+      "nextTransitionAt": 1791756000000,
+      "closedSince": 1791579600000,
+      "marketIds": [
+        "0x38aca7076576e5f656e601ab34a55de2e66b7056a5652d16120671c7115b4057",
+        "0xdd5a6622612d131f90b114ba5f8c84e3ed75b4b40e9de8479a875e228940bcf6"
+      ],
+      "upcoming": []
+    },
+    {
+      "id": "hk_equities",
+      "name": "Hong Kong equities",
+      "timezone": "Asia/Hong_Kong",
+      "hours": "Asia/Hong_Kong;0930-1200&1300-1600,0930-1200&1300-1600,0930-1200&1300-1600,0930-1200&1300-1600,0930-1200&1300-1600,C,C;0101/C,0216/0930-1200,0217/C,0218/C,0219/C,0403/C,0406/C,0407/C,0501/C,0525/C,0619/C,0701/C,1001/C,1019/C,1224/0930-1200,1225/C,1231/0930-1200",
+      "isOpen": false,
+      "nextTransitionAt": 1791768600000,
+      "closedSince": 1791532800000,
+      "marketIds": [
+        "0x1165344c489ab4a4220b82b14fe5ab7c830bff20d8c6eb48d280664715053293",
+        "0x411cde5963e65c17ad49f419048e0d370a7cb56481f2323611179edec433445c",
+        "0x72646014195107e559ad20728db756ebe384fcd6868f4f1965ab6d97edd9f0c3"
+      ],
+      "upcoming": []
+    },
+    {
+      "id": "ice_brent",
+      "name": "ICE Brent",
+      "timezone": "Europe/London",
+      "hours": "Europe/London;0000-2300,0100-2300,0100-2300,0100-2300,0100-2300,C,2300-2400;0907/0000-1830,1126/0100-1830,1127/0100-2000,1224/0100-1900,1225/C,1231/0100-2000,0101/C,0326/C,0531/0000-1830,0618/0100-1830,0705/0000-1830",
+      "isOpen": false,
+      "nextTransitionAt": 1791756000000,
+      "closedSince": 1791583200000,
+      "marketIds": [
+        "0x65f2c4a8f6b96a48d91fff678783decb0d8e28dec9a722f05a78f5601f2c4f76"
+      ],
+      "upcoming": []
+    },
+    {
+      "id": "in_equities",
+      "name": "India equities",
+      "timezone": "Asia/Kolkata",
+      "hours": "Asia/Kolkata;0915-1530,0915-1530,0915-1530,0915-1530,0915-1530,C,C;0115/C,0126/C,0303/C,0326/C,0331/C,0403/C,0414/C,0501/C,0528/C,0626/C,0914/C,1002/C,1020/C,1108/C,1110/C,1124/C,1225/C",
+      "isOpen": false,
+      "nextTransitionAt": 1791776700000,
+      "closedSince": 1791540000000,
+      "marketIds": [
+        "0x283151e19805b62facea16933bdd61118f99d0ca7881f7a9f4536e77231c12fb"
+      ],
+      "upcoming": []
+    },
+    {
+      "id": "kr_equities",
+      "name": "Korea equities",
+      "timezone": "Asia/Seoul",
+      "hours": "Asia/Seoul;0900-1530,0900-1530,0900-1530,0900-1530,0900-1530,C,C;0101/C,0216/C,0217/C,0218/C,0302/C,0501/C,0505/C,0525/C,0603/C,0717/C,0817/C,0924/C,0925/C,1005/C,1009/C,1225/C,1231/C",
+      "isOpen": false,
+      "nextTransitionAt": 1791763200000,
+      "closedSince": 1791441000000,
+      "marketIds": [
+        "0xbb681b10f4578bb16a8b77c709d034bf4dcdb6ec8fb8dcc26d45f3d20270b10c",
+        "0xbd0f8cf1fb501f159a5fa928a8efe716940d5809de55a26e186facd6add63d66"
+      ],
+      "upcoming": []
+    },
+    {
+      "id": "us_equities",
+      "name": "US equities",
+      "timezone": "America/New_York",
+      "hours": "America/New_York;0930-1600,0930-1600,0930-1600,0930-1600,0930-1600,C,C;0101/C,0119/C,0216/C,0403/C,0525/C,0619/C,0703/C,0907/C,1126/C,1127/0930-1300,1224/0930-1300,1225/C",
+      "isOpen": false,
+      "nextTransitionAt": 1791811800000,
+      "closedSince": 1791576000000,
+      "marketIds": [
+        "0x0d54c8e8d642d6c30412c48553628d9a91e2eb7e8f4e806bcb953c14cd1f5020",
+        "0x143b0900a15a11af9764119ea7b72a25756484a60ad21024ed79325231ed7a9c",
+        "0x164773ec0aa7a04f0882800a36cd7f8bdbd8f1d850bfdc6e82fa0fd923b178ad",
+        "0x1b1ce878827314011ed1081431de037eb620b5eb18532f08a77c8226fe33b91a",
+        "0x3071216e5e9c07a4cebd3b3d3b9789ef76da44a8cfd2928292fd9f16dc7ce502",
+        "0x5dd43224d7fbf4e726ecd03e4eb620094d7a37d356f85734714ebaceb08211ee",
+        "0x5f3f15a86700bb14be62dcff0924e6e0d974e5d831f0e0bc4c5852a977f14204",
+        "0x70519b6e514f78c266dec5f5406bc8ba953ee0941490181bcc7e31d6798999f8",
+        "0x791bbd6bbb5a65932022b710034be4f8b95f1046ac5fcd0bb3a059a35ff84c62",
+        "0x7b302ca4ed5a96654612fd94363a925f7c71dfa9678d4ab4e10ae8825941a5c0",
+        "0x8d7bfd380f89e0998a0d71cf46615948f4f2fab3d3904fe8a522c50a8cb0f3df",
+        "0xa7adf846c9c49bf8e8fcfee2049453dabf3cb3ae432adf92d80e172e42cfb414",
+        "0xaa1c80e65f738cf2b41063f5f9982565fa79668308cf534245a09398e82017dd",
+        "0xabc5065cf350f65da0c7b9245db4ed5f14ffa0119f950c2a6dcd8c3839c80ce3",
+        "0xdc19f381028e5276d0a8db7403773e7a0e6610557c6c00e6c8a79fb969bd0ef2",
+        "0xdc6c56990c660a57ac5f8a4f66238be7d09365dc181a79abdbe400c28a727305"
+      ],
+      "upcoming": []
+    },
+    {
+      "id": "usd_brl",
+      "name": "USD/BRL",
+      "timezone": "America/New_York",
+      "hours": "America/New_York;0800-1700,0800-1700,0800-1700,0800-1700,0800-1700,C,C;1225/C,0101/C",
+      "isOpen": false,
+      "nextTransitionAt": 1791806400000,
+      "closedSince": 1791579600000,
+      "marketIds": [
+        "0xc380c2d26556e6f5781a0444545bb511e3e547e05cd0faee58878defccbb9c9c"
+      ],
+      "upcoming": []
+    },
+    {
+      "id": "usd_krw",
+      "name": "USD/KRW",
+      "timezone": "America/New_York",
+      "hours": "America/New_York;0000-1700&1800-2400,0000-1700&1800-2400,0000-1700&1800-2400,0000-1700&1800-2400,0000-1700,C,1800-2400;1224/0000-1700,1231/0000-1700",
+      "isOpen": false,
+      "nextTransitionAt": 1791756000000,
+      "closedSince": 1791579600000,
+      "marketIds": [
+        "0x4594379ab43bc408e0ea8f43bddb5d022df0ff6c70da07ca680beaa72adf1297"
+      ],
+      "upcoming": []
+    }
+  ]
+}

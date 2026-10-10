@@ -1,0 +1,22 @@
+# Private research: names third-party accounts/strategies and local paths. Never publish.
+research/
+# Private maintainer notes
+private/
+# Secrets and runtime state
+.env
+.env.*
+!.env.example
+*.key
+data/
+state/
+.state/
+*.sqlite
+*.sqlite-*
+logs/
+# Build
+node_modules/
+dist/
+vendor/lighter-signer/build/
+coverage/
+.DS_Store
+.worktreeinclude

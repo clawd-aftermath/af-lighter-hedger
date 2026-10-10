@@ -1,0 +1,26 @@
+{
+  "aftermath": [
+    { "symbol": "BTC", "tick": "1000000", "lot": "1", "minOrderUsd": "1" },
+    { "symbol": "AAPL", "tick": "10000", "lot": "10000", "minOrderUsd": "1" }
+  ],
+  "lighter": [
+    {
+      "symbol": "BTC",
+      "sizeDecimals": 5,
+      "priceDecimals": 1,
+      "minQuoteAmount": "10"
+    },
+    {
+      "symbol": "ETH",
+      "sizeDecimals": 4,
+      "priceDecimals": 2,
+      "minQuoteAmount": "10"
+    },
+    {
+      "symbol": "SUI",
+      "sizeDecimals": 1,
+      "priceDecimals": 5,
+      "minQuoteAmount": "10"
+    }
+  ]
+}

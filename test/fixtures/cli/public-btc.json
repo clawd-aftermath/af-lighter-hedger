@@ -1,0 +1,649 @@
+{
+  "af": {
+    "marketDatas": [
+      {
+        "market": {
+          "packageId": "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7",
+          "objectId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "collateralCoinType": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+          "marketParams": {
+            "baseAssetSymbol": "BTCUSD",
+            "tickSize": "1000000n",
+            "lotSize": "1n",
+            "minOrderUsdValue": 1,
+            "makerFee": -5e-5,
+            "takerFee": 0.00045,
+            "priorityTakerFee": 0.001,
+            "marginRatioInitial": 0.05,
+            "marginRatioMaintenance": 0.025,
+            "maxOpenInterest": 10,
+            "maxOpenInterestThreshold": 2,
+            "maxOpenInterestPositionPercent": 0.5,
+            "maxPendingOrders": "80n",
+            "fundingFrequencyMs": "3600000n",
+            "fundingPeriodMs": "28800000n",
+            "basePriceFeedId": 0,
+            "collateralPriceFeedId": 1,
+            "premiumTwapFrequencyMs": "60000n",
+            "premiumTwapPeriodMs": "3600000n",
+            "spreadTwapFrequencyMs": "5000n",
+            "spreadTwapPeriodMs": "60000n",
+            "liquidationFee": 0.005,
+            "insuranceFundFee": 0.0005,
+            "scalingFactor": 1e-6,
+            "baseOracleTolerance": "15000n",
+            "collateralOracleTolerance": "30000n"
+          },
+          "marketState": {
+            "premiumTwap": 24.594083422328918,
+            "cumFundingRateLong": -783.2977574552036,
+            "cumFundingRateShort": -783.2977574552036,
+            "fundingLastUpdateTimestamp": 1791583200017,
+            "premiumTwapLastUpdateTimestamp": 1791586290180,
+            "spreadTwap": 14.43178438291462,
+            "spreadTwapLastUpdateTimestamp": 1791586323285,
+            "openInterest": 0.574171699,
+            "feesAccrued": 3666.101376187542
+          },
+          "indexPrice": 82559.04054778,
+          "estimatedFundingRate": 3.723711428080275e-5,
+          "nextFundingTimestampMs": "1791586800000n",
+          "collateralPrice": 0.99987398
+        },
+        "metadata": {
+          "symbol": "BTC",
+          "description": "BTC references the USD price of 1 bitcoin, the native asset of the Bitcoin network. Bitcoin launched in 2009 as the first proof-of-work blockchain and remains the largest crypto asset by market capitalization.",
+          "category": "Crypto",
+          "tags": ["Layer 1"],
+          "image": "https://coin-icons-cdn.aftermath.finance/markets/btc.svg",
+          "collateralSymbol": "USDC"
+        }
+      }
+    ]
+  },
+  "afBooks": {
+    "orderbooks": [
+      {
+        "orderbook": {
+          "asks": [
+            {
+              "size": 0.019855196,
+              "price": 82577.648
+            },
+            {
+              "size": 0.009081813,
+              "price": 82577.696
+            },
+            {
+              "size": 0.009080353,
+              "price": 82590.081
+            },
+            {
+              "size": 0.000121065,
+              "price": 82600
+            },
+            {
+              "size": 0.010288495,
+              "price": 82612.751
+            },
+            {
+              "size": 0.514759406,
+              "price": 82623.699
+            },
+            {
+              "size": 0.012113095,
+              "price": 82647.273
+            },
+            {
+              "size": 0.018169643,
+              "price": 82659.669
+            },
+            {
+              "size": 0.060565479,
+              "price": 82680.328
+            },
+            {
+              "size": 0.000120918,
+              "price": 82700
+            },
+            {
+              "size": 0.000120772,
+              "price": 82800
+            },
+            {
+              "size": 0.502641798,
+              "price": 82852.418
+            },
+            {
+              "size": 0.000120627,
+              "price": 82900
+            },
+            {
+              "size": 0.000387539,
+              "price": 82986.754
+            },
+            {
+              "size": 0.501914081,
+              "price": 82998.919
+            },
+            {
+              "size": 0.000120481,
+              "price": 83000
+            },
+            {
+              "size": 0.000387534,
+              "price": 83026.764
+            },
+            {
+              "size": 0.501914081,
+              "price": 83246.341
+            },
+            {
+              "size": 0.00291619,
+              "price": 84500
+            },
+            {
+              "size": 1.3999e-5,
+              "price": 85802.128
+            },
+            {
+              "size": 1.3999e-5,
+              "price": 85804.203
+            },
+            {
+              "size": 1.3997e-5,
+              "price": 85817.339
+            },
+            {
+              "size": 1.3996e-5,
+              "price": 85820.782
+            },
+            {
+              "size": 1.3992e-5,
+              "price": 85844.438
+            },
+            {
+              "size": 1.399e-5,
+              "price": 85859.843
+            },
+            {
+              "size": 1.399e-5,
+              "price": 85859.967
+            },
+            {
+              "size": 1.3983e-5,
+              "price": 85901.45
+            },
+            {
+              "size": 1.3974e-5,
+              "price": 85957.275
+            },
+            {
+              "size": 1.3959e-5,
+              "price": 86048.918
+            },
+            {
+              "size": 1.3954e-5,
+              "price": 86078.302
+            },
+            {
+              "size": 1.3947e-5,
+              "price": 86122.966
+            },
+            {
+              "size": 1.3996e-5,
+              "price": 86185.004
+            },
+            {
+              "size": 1.3936e-5,
+              "price": 86189.496
+            },
+            {
+              "size": 1.3934e-5,
+              "price": 86202.53
+            },
+            {
+              "size": 1.3921e-5,
+              "price": 86286.193
+            },
+            {
+              "size": 1.3914e-5,
+              "price": 86328.496
+            },
+            {
+              "size": 1.3905e-5,
+              "price": 86385.532
+            },
+            {
+              "size": 1.3899e-5,
+              "price": 86422.698
+            },
+            {
+              "size": 1.3882e-5,
+              "price": 86524.394
+            },
+            {
+              "size": 1.3871e-5,
+              "price": 86594.769
+            },
+            {
+              "size": 1.3863e-5,
+              "price": 86646.179
+            },
+            {
+              "size": 0.000165961,
+              "price": 87275.685
+            }
+          ],
+          "bids": [
+            {
+              "size": 0.012112244,
+              "price": 82561.078
+            },
+            {
+              "size": 0.009688823,
+              "price": 82561.077
+            },
+            {
+              "size": 0.00908422,
+              "price": 82561.076
+            },
+            {
+              "size": 0.624044428,
+              "price": 82556.016
+            },
+            {
+              "size": 0.00908579,
+              "price": 82548.675
+            },
+            {
+              "size": 0.624117234,
+              "price": 82534.219
+            },
+            {
+              "size": 0.010299805,
+              "price": 82528.031
+            },
+            {
+              "size": 0.012113095,
+              "price": 82523.393
+            },
+            {
+              "size": 0.624215374,
+              "price": 82517.022
+            },
+            {
+              "size": 0.018169643,
+              "price": 82511.013
+            },
+            {
+              "size": 0.003943369,
+              "price": 82470.446
+            },
+            {
+              "size": 0.060565479,
+              "price": 82460.383
+            },
+            {
+              "size": 0.000980507,
+              "price": 82420.141
+            },
+            {
+              "size": 0.000242571,
+              "price": 82400
+            },
+            {
+              "size": 0.000121506,
+              "price": 82300
+            },
+            {
+              "size": 0.000387534,
+              "price": 82200.626
+            },
+            {
+              "size": 0.000121654,
+              "price": 82200
+            },
+            {
+              "size": 0.000387539,
+              "price": 82161.014
+            },
+            {
+              "size": 0.000121802,
+              "price": 82100
+            },
+            {
+              "size": 0.000121951,
+              "price": 82000
+            }
+          ],
+          "asksTotalSize": 2.165151428,
+          "bidsTotalSize": 2.019924568,
+          "bestBidPrice": 82561.078,
+          "bestAskPrice": 82577.648,
+          "midPrice": 82569.363,
+          "nonce": "331595977n"
+        },
+        "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1"
+      }
+    ]
+  },
+  "lighter": {
+    "code": 200,
+    "order_book_details": [
+      {
+        "symbol": "BTC",
+        "market_id": 1,
+        "market_type": "perp",
+        "base_asset_id": 0,
+        "quote_asset_id": 0,
+        "status": "active",
+        "taker_fee": "0.0000",
+        "is_taker_fee_enabled": true,
+        "maker_fee": "0.0000",
+        "is_maker_fee_enabled": true,
+        "liquidation_fee": "1.0000",
+        "min_base_amount": "0.00007",
+        "min_quote_amount": "10.000000",
+        "order_quote_limit": "281474976.710655",
+        "supported_size_decimals": 5,
+        "supported_price_decimals": 1,
+        "supported_quote_decimals": 6,
+        "created_at": "1737098461107",
+        "multiplier": "1.000000000000000000",
+        "start_timestamp": 0,
+        "end_timestamp": 0,
+        "outcome": 0,
+        "operator_account_index": 1,
+        "settlement_cap": 0,
+        "settlement_type": 0,
+        "settlement_price": 0,
+        "default_price": 0,
+        "is_frozen": false,
+        "size_decimals": 5,
+        "price_decimals": 1,
+        "quote_multiplier": 1,
+        "default_initial_margin_fraction": 500,
+        "min_initial_margin_fraction": 200,
+        "maintenance_margin_fraction": 120,
+        "closeout_margin_fraction": 80,
+        "mark_price": "82579.3",
+        "index_price": "82630.0",
+        "last_trade_price": 82582.2,
+        "daily_trades_count": 521443,
+        "daily_base_token_volume": 11050.9052,
+        "daily_quote_token_volume": 912920981.543516,
+        "daily_price_low": 81558.7,
+        "daily_price_high": 83480.6,
+        "daily_price_change": 1.0630056650394006,
+        "open_interest": 1952.57735,
+        "daily_chart": {},
+        "market_config": {
+          "market_margin_mode": 0,
+          "insurance_fund_account_index": 281474976710655,
+          "liquidation_mode": 0,
+          "force_reduce_only": false,
+          "trading_hours": "",
+          "funding_fee_discounts_enabled": false,
+          "hidden": false,
+          "rfq_enabled": true
+        },
+        "strategy_index": 2,
+        "market_flags": 0,
+        "funding_premium_multiplier": 100,
+        "funding_clamp_small": "0.0500",
+        "funding_clamp_big": "4.0000",
+        "base_interest_rate": "0.0100"
+      }
+    ]
+  },
+  "lighterBook": {
+    "code": 200,
+    "total_asks": 5,
+    "asks": [
+      {
+        "order_index": 562953524577148,
+        "order_id": "562953524577148",
+        "initial_base_amount": "0.00061",
+        "remaining_base_amount": "0.00061",
+        "price": "82581.9",
+        "order_expiry": 1794005836393,
+        "transaction_time": 0
+      },
+      {
+        "order_index": 562953524577101,
+        "order_id": "562953524577101",
+        "initial_base_amount": "0.08471",
+        "remaining_base_amount": "0.08468",
+        "price": "82582.2",
+        "order_expiry": 1794005835055,
+        "transaction_time": 0
+      },
+      {
+        "order_index": 562953524577122,
+        "order_id": "562953524577122",
+        "initial_base_amount": "0.22656",
+        "remaining_base_amount": "0.22656",
+        "price": "82582.5",
+        "order_expiry": 1791673035498,
+        "transaction_time": 0
+      },
+      {
+        "order_index": 562953524577087,
+        "order_id": "562953524577087",
+        "initial_base_amount": "0.14712",
+        "remaining_base_amount": "0.14712",
+        "price": "82583.7",
+        "order_expiry": 1791673034951,
+        "transaction_time": 0
+      },
+      {
+        "order_index": 562953524577059,
+        "order_id": "562953524577059",
+        "initial_base_amount": "0.08515",
+        "remaining_base_amount": "0.08512",
+        "price": "82584.1",
+        "order_expiry": 1794005833504,
+        "transaction_time": 0
+      }
+    ],
+    "total_bids": 5,
+    "bids": [
+      {
+        "order_index": 844421326132867,
+        "order_id": "844421326132867",
+        "initial_base_amount": "0.03858",
+        "remaining_base_amount": "0.03858",
+        "price": "82577.2",
+        "order_expiry": 1794005837091,
+        "transaction_time": 0
+      },
+      {
+        "order_index": 844421326132865,
+        "order_id": "844421326132865",
+        "initial_base_amount": "0.04750",
+        "remaining_base_amount": "0.04750",
+        "price": "82577.2",
+        "order_expiry": 1794005837105,
+        "transaction_time": 0
+      },
+      {
+        "order_index": 844421326143722,
+        "order_id": "844421326143722",
+        "initial_base_amount": "0.00030",
+        "remaining_base_amount": "0.00030",
+        "price": "82577.0",
+        "order_expiry": 1794178283922,
+        "transaction_time": 0
+      },
+      {
+        "order_index": 844421326132870,
+        "order_id": "844421326132870",
+        "initial_base_amount": "0.09782",
+        "remaining_base_amount": "0.09782",
+        "price": "82576.7",
+        "order_expiry": 1794178637011,
+        "transaction_time": 0
+      },
+      {
+        "order_index": 844421326132863,
+        "order_id": "844421326132863",
+        "initial_base_amount": "0.00013",
+        "remaining_base_amount": "0.00013",
+        "price": "82576.4",
+        "order_expiry": 1791673037223,
+        "transaction_time": 0
+      }
+    ]
+  },
+  "lighterFunding": {
+    "code": 200,
+    "resolution": "1h",
+    "fundings": [
+      {
+        "timestamp": 1791500400,
+        "value": "0.49137600",
+        "rate": "0.0006",
+        "direction": "short"
+      },
+      {
+        "timestamp": 1791504000,
+        "value": "0.32701760",
+        "rate": "0.0004",
+        "direction": "short"
+      },
+      {
+        "timestamp": 1791507600,
+        "value": "0.08181190",
+        "rate": "0.0001",
+        "direction": "long"
+      },
+      {
+        "timestamp": 1791511200,
+        "value": "0.08197920",
+        "rate": "0.0001",
+        "direction": "long"
+      },
+      {
+        "timestamp": 1791514800,
+        "value": "0.65693600",
+        "rate": "0.0008",
+        "direction": "long"
+      },
+      {
+        "timestamp": 1791518400,
+        "value": "0.90666730",
+        "rate": "0.0011",
+        "direction": "long"
+      },
+      {
+        "timestamp": 1791522000,
+        "value": "0.16449280",
+        "rate": "0.0002",
+        "direction": "short"
+      },
+      {
+        "timestamp": 1791525600,
+        "value": "0.49423260",
+        "rate": "0.0006",
+        "direction": "short"
+      },
+      {
+        "timestamp": 1791529200,
+        "value": "0.00000000",
+        "rate": "0.0000",
+        "direction": "long"
+      },
+      {
+        "timestamp": 1791532800,
+        "value": "0.16532420",
+        "rate": "0.0002",
+        "direction": "long"
+      },
+      {
+        "timestamp": 1791536400,
+        "value": "0.08269890",
+        "rate": "0.0001",
+        "direction": "short"
+      },
+      {
+        "timestamp": 1791540000,
+        "value": "0.41326350",
+        "rate": "0.0005",
+        "direction": "long"
+      },
+      {
+        "timestamp": 1791543600,
+        "value": "0.08256370",
+        "rate": "0.0001",
+        "direction": "short"
+      },
+      {
+        "timestamp": 1791547200,
+        "value": "0.33300200",
+        "rate": "0.0004",
+        "direction": "long"
+      },
+      {
+        "timestamp": 1791550800,
+        "value": "0.08302670",
+        "rate": "0.0001",
+        "direction": "short"
+      },
+      {
+        "timestamp": 1791554400,
+        "value": "0.57838410",
+        "rate": "0.0007",
+        "direction": "long"
+      },
+      {
+        "timestamp": 1791558000,
+        "value": "0.66434960",
+        "rate": "0.0008",
+        "direction": "long"
+      },
+      {
+        "timestamp": 1791561600,
+        "value": "0.00000000",
+        "rate": "0.0000",
+        "direction": "long"
+      },
+      {
+        "timestamp": 1791565200,
+        "value": "0.16549520",
+        "rate": "0.0002",
+        "direction": "short"
+      },
+      {
+        "timestamp": 1791568800,
+        "value": "0.24815310",
+        "rate": "0.0003",
+        "direction": "long"
+      },
+      {
+        "timestamp": 1791572400,
+        "value": "0.49471740",
+        "rate": "0.0006",
+        "direction": "short"
+      },
+      {
+        "timestamp": 1791576000,
+        "value": "0.08231920",
+        "rate": "0.0001",
+        "direction": "short"
+      },
+      {
+        "timestamp": 1791579600,
+        "value": "0.99013200",
+        "rate": "0.0012",
+        "direction": "long"
+      },
+      {
+        "timestamp": 1791583200,
+        "value": "0.99044520",
+        "rate": "0.0012",
+        "direction": "long"
+      }
+    ]
+  }
+}

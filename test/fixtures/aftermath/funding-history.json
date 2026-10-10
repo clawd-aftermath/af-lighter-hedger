@@ -1,0 +1,14 @@
+{
+  "history": [
+    {
+      "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+      "timestamp": 1791583200017,
+      "eventTimestamp": 1791583200156,
+      "longFundingRate": 3.3855038514237252,
+      "shortFundingRate": 3.3855038514237252,
+      "cumulativeLongFundingRate": -783.2977574552036,
+      "cumulativeShortFundingRate": -783.2977574552036,
+      "txDigest": "5e2ebenC9Uc1UmpwhgLRsx5oEDwWjgRT1YJm34RHwuoM"
+    }
+  ]
+}

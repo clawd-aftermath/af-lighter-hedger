@@ -1,0 +1,36 @@
+# List of enabled markets. Auto IDs use the same resolver as markets list/check.
+# Every USD field is positive. Start with small clips and positions.
+- symbol: BTC # Uppercase venue-neutral market symbol.
+  enabled: true # false disables this market.
+  aftermath:
+    marketId: auto # auto or a quoted 0x-prefixed hex market address.
+  lighter:
+    marketId: auto # auto or a nonnegative integer market ID.
+  clipUsd: 50 # Per-level notional in USD, <= maxPositionUsd.
+  maxPositionUsd: 500 # Maximum absolute position notional in USD.
+  levels: 1 # Integer 1..3; capacities are shared across all levels.
+  # compressionBudgetBp: 0 # 0 is profitable-only; omitted inherits the global budget.
+- symbol: ETH # Same units and ranges as BTC.
+  enabled: true # Market enable switch.
+  aftermath: {marketId: auto} # AF auto or hex address.
+  lighter: {marketId: auto} # Lighter auto or integer ID.
+  clipUsd: 50 # USD per level.
+  maxPositionUsd: 500 # USD absolute position cap.
+  levels: 1 # 1..3 quote levels.
+  # compressionBudgetBp: 0 # Optional global budget override in bp.
+- symbol: SOL # Same units and ranges as BTC.
+  enabled: true # Market enable switch.
+  aftermath: {marketId: auto} # AF auto or hex address.
+  lighter: {marketId: auto} # Lighter auto or integer ID.
+  clipUsd: 50 # USD per level.
+  maxPositionUsd: 500 # USD absolute position cap.
+  levels: 1 # 1..3 quote levels.
+  # compressionBudgetBp: 0 # Optional global budget override in bp.
+- symbol: SUI # Same units and ranges as BTC.
+  enabled: true # Market enable switch.
+  aftermath: {marketId: auto} # AF auto or hex address.
+  lighter: {marketId: auto} # Lighter auto or integer ID.
+  clipUsd: 50 # USD per level.
+  maxPositionUsd: 500 # USD absolute position cap.
+  levels: 1 # 1..3 quote levels.
+  # compressionBudgetBp: 0 # Optional global budget override in bp.

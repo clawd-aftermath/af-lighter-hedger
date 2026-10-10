@@ -1,0 +1,2120 @@
+{
+  "frames": [
+    {
+      "elapsedMs": 1580,
+      "message": {
+        "ack": "Subscription established. Current subscriptions: WsContext { market_sub: {}, user_sub: None, oracle_sub: {}, orderbook_sub: {Address(\"0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1\")}, orderbook_buckets_sub: {}, market_trades_sub: {}, user_trades_sub: None, user_collateral_change_sub: None, market_candles_sub: {} }"
+      }
+    },
+    {
+      "elapsedMs": 1620,
+      "message": {
+        "ack": "Subscription established. Current subscriptions: WsContext { market_sub: {Address(\"0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1\")}, user_sub: None, oracle_sub: {}, orderbook_sub: {Address(\"0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1\")}, orderbook_buckets_sub: {}, market_trades_sub: {}, user_trades_sub: None, user_collateral_change_sub: None, market_candles_sub: {} }"
+      }
+    },
+    {
+      "elapsedMs": 1620,
+      "message": {
+        "ack": "Subscription established. Current subscriptions: WsContext { market_sub: {Address(\"0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1\")}, user_sub: None, oracle_sub: {Address(\"0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1\")}, orderbook_sub: {Address(\"0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1\")}, orderbook_buckets_sub: {}, market_trades_sub: {}, user_trades_sub: None, user_collateral_change_sub: None, market_candles_sub: {} }"
+      }
+    },
+    {
+      "elapsedMs": 1620,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.70689726,
+          "collateralPrice": 0.99986245,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 1858,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.70689726,
+          "collateralPrice": 0.99986245,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 2108,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.9998622,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 2359,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99988022,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 2610,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99988082,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 2858,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986282,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 3109,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.72169956,
+          "collateralPrice": 0.99986089,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 3372,
+      "message": {
+        "orderbook": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "orderbookDeltas": {
+            "asksDeltas": [
+              { "size": 0.012113096, "price": 82647.269 },
+              { "size": -0.012113095, "price": 82647.273 },
+              { "size": 0.018169644, "price": 82659.665 },
+              { "size": -0.018169643, "price": 82659.669 },
+              { "size": 0.060565482, "price": 82680.324 },
+              { "size": -0.060565479, "price": 82680.328 }
+            ],
+            "bidsDeltas": [
+              { "size": -0.012113095, "price": 82523.393 },
+              { "size": 0.012113096, "price": 82523.389 },
+              { "size": -0.018169643, "price": 82511.013 },
+              { "size": 0.018169644, "price": 82511.009 },
+              { "size": -0.060565479, "price": 82460.383 },
+              { "size": 0.060565482, "price": 82460.379 }
+            ],
+            "asksTotalSizeDelta": 4.999999997368221e-9,
+            "bidsTotalSizeDelta": 4.999999997368221e-9,
+            "nonce": "331595694n"
+          }
+        }
+      }
+    },
+    {
+      "elapsedMs": 3372,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99988057,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 3609,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986257,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 3857,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99988057,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 4107,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99988059,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 4358,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986075,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 4609,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99987907,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 4858,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99987865,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 5108,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986238,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 5354,
+      "message": {
+        "orderbook": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "orderbookDeltas": {
+            "asksDeltas": [
+              { "size": -0.012113096, "price": 82647.269 },
+              { "size": 0.012113096, "price": 82655.534 },
+              { "size": -0.018169644, "price": 82659.665 },
+              { "size": 0.018169644, "price": 82667.931 },
+              { "size": -0.060565482, "price": 82680.324 },
+              { "size": 0.060565482, "price": 82688.593 }
+            ],
+            "bidsDeltas": [
+              { "size": -0.012113096, "price": 82523.389 },
+              { "size": 0.012113096, "price": 82515.137 },
+              { "size": -0.018169644, "price": 82511.009 },
+              { "size": 0.018169644, "price": 82502.758 },
+              { "size": -0.060565482, "price": 82460.379 },
+              { "size": 0.060565482, "price": 82452.133 }
+            ],
+            "asksTotalSizeDelta": 0,
+            "bidsTotalSizeDelta": 0,
+            "nonce": "331595695n"
+          }
+        }
+      }
+    },
+    {
+      "elapsedMs": 5359,
+      "message": {
+        "market": {
+          "packageId": "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7",
+          "objectId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "collateralCoinType": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+          "marketParams": {
+            "marginRatioInitial": 0.05,
+            "marginRatioMaintenance": 0.025,
+            "baseAssetSymbol": "BTCUSD",
+            "basePriceFeedId": 0,
+            "collateralPriceFeedId": 1,
+            "fundingFrequencyMs": "3600000n",
+            "fundingPeriodMs": "28800000n",
+            "premiumTwapFrequencyMs": "60000n",
+            "premiumTwapPeriodMs": "3600000n",
+            "spreadTwapFrequencyMs": "5000n",
+            "spreadTwapPeriodMs": "60000n",
+            "makerFee": -0.00005,
+            "takerFee": 0.00045,
+            "liquidationFee": 0.005,
+            "insuranceFundFee": 0.0005,
+            "minOrderUsdValue": 1,
+            "lotSize": "1n",
+            "tickSize": "1000000n",
+            "scalingFactor": 0.000001,
+            "priorityTakerFee": 0.001,
+            "maxPendingOrders": "80n",
+            "baseOracleTolerance": "15000n",
+            "collateralOracleTolerance": "30000n",
+            "maxOpenInterest": 10,
+            "maxOpenInterestThreshold": 2,
+            "maxOpenInterestPositionPercent": 0.5
+          },
+          "marketState": {
+            "cumFundingRateLong": -783.2977574552036,
+            "cumFundingRateShort": -783.2977574552036,
+            "fundingLastUpdateTimestamp": 1791583200017,
+            "premiumTwap": 24.594083422328918,
+            "premiumTwapLastUpdateTimestamp": 1791586290180,
+            "spreadTwap": 14.011704682997847,
+            "spreadTwapLastUpdateTimestamp": 1791586330156,
+            "openInterest": 0.574171699,
+            "feesAccrued": 3666.101376187542
+          },
+          "collateralPrice": 0.99987932,
+          "indexPrice": 82558.6,
+          "markPrice": 82569.363,
+          "estimatedFundingRate": 0.00003723731298485088,
+          "nextFundingTimestampMs": "1791586800000n"
+        }
+      }
+    },
+    {
+      "elapsedMs": 5359,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99987932,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 5608,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99988039,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 5857,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99987865,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 6109,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986008,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 6358,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986008,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 6608,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986617,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 6859,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986617,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 7108,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82556.5197114,
+          "collateralPrice": 0.99986653,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 7359,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986008,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 7610,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986618,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 7701,
+      "message": {
+        "orderbook": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "orderbookDeltas": {
+            "asksDeltas": [
+              { "size": 0.012113096, "price": 82647.271 },
+              { "size": -0.012113096, "price": 82655.534 },
+              { "size": 0.018169644, "price": 82659.667 },
+              { "size": -0.018169644, "price": 82667.931 },
+              { "size": 0.06056548, "price": 82680.326 },
+              { "size": -0.060565482, "price": 82688.593 }
+            ],
+            "bidsDeltas": [
+              { "size": 0.012113096, "price": 82523.391 },
+              { "size": -0.012113096, "price": 82515.137 },
+              { "size": 0.018169644, "price": 82511.011 },
+              { "size": -0.018169644, "price": 82502.758 },
+              { "size": 0.06056548, "price": 82460.381 },
+              { "size": -0.060565482, "price": 82452.133 }
+            ],
+            "asksTotalSizeDelta": -1.9999999989472883e-9,
+            "bidsTotalSizeDelta": -1.9999999989472883e-9,
+            "nonce": "331595696n"
+          }
+        }
+      }
+    },
+    {
+      "elapsedMs": 7859,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986097,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 8112,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82556.5197114,
+          "collateralPrice": 0.99986649,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 8360,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986618,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 8608,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.92640525,
+          "collateralPrice": 0.9998665,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 8859,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.92640525,
+          "collateralPrice": 0.9998608,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 9110,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99987217,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 9360,
+      "message": {
+        "market": {
+          "packageId": "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7",
+          "objectId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "collateralCoinType": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+          "marketParams": {
+            "marginRatioInitial": 0.05,
+            "marginRatioMaintenance": 0.025,
+            "baseAssetSymbol": "BTCUSD",
+            "basePriceFeedId": 0,
+            "collateralPriceFeedId": 1,
+            "fundingFrequencyMs": "3600000n",
+            "fundingPeriodMs": "28800000n",
+            "premiumTwapFrequencyMs": "60000n",
+            "premiumTwapPeriodMs": "3600000n",
+            "spreadTwapFrequencyMs": "5000n",
+            "spreadTwapPeriodMs": "60000n",
+            "makerFee": -0.00005,
+            "takerFee": 0.00045,
+            "liquidationFee": 0.005,
+            "insuranceFundFee": 0.0005,
+            "minOrderUsdValue": 1,
+            "lotSize": "1n",
+            "tickSize": "1000000n",
+            "scalingFactor": 0.000001,
+            "priorityTakerFee": 0.001,
+            "maxPendingOrders": "80n",
+            "baseOracleTolerance": "15000n",
+            "collateralOracleTolerance": "30000n",
+            "maxOpenInterest": 10,
+            "maxOpenInterestThreshold": 2,
+            "maxOpenInterestPositionPercent": 0.5
+          },
+          "marketState": {
+            "cumFundingRateLong": -783.2977574552036,
+            "cumFundingRateShort": -783.2977574552036,
+            "fundingLastUpdateTimestamp": 1791583200017,
+            "premiumTwap": 24.594083422328918,
+            "premiumTwapLastUpdateTimestamp": 1791586290180,
+            "spreadTwap": 14.011704682997847,
+            "spreadTwapLastUpdateTimestamp": 1791586330156,
+            "openInterest": 0.574171699,
+            "feesAccrued": 3666.101376187542
+          },
+          "collateralPrice": 0.99987216,
+          "indexPrice": 82558.6,
+          "markPrice": 82569.363,
+          "estimatedFundingRate": 0.00003723731298485088,
+          "nextFundingTimestampMs": "1791586800000n"
+        }
+      }
+    },
+    {
+      "elapsedMs": 9360,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99987216,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 9384,
+      "message": {
+        "orderbook": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "orderbookDeltas": {
+            "asksDeltas": [
+              { "size": -0.012113096, "price": 82647.271 },
+              { "size": 0.012113096, "price": 82655.536 },
+              { "size": -0.018169644, "price": 82659.667 },
+              { "size": 0.018169644, "price": 82667.933 },
+              { "size": -0.06056548, "price": 82680.326 },
+              { "size": 0.06056548, "price": 82688.595 }
+            ],
+            "bidsDeltas": [
+              { "size": -0.012113096, "price": 82523.391 },
+              { "size": 0.012113096, "price": 82515.139 },
+              { "size": -0.018169644, "price": 82511.011 },
+              { "size": 0.018169644, "price": 82502.76 },
+              { "size": -0.06056548, "price": 82460.381 },
+              { "size": 0.06056548, "price": 82452.135 }
+            ],
+            "asksTotalSizeDelta": 0,
+            "bidsTotalSizeDelta": 0,
+            "nonce": "331595697n"
+          }
+        }
+      }
+    },
+    {
+      "elapsedMs": 9609,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 9857,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99987222,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 10108,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82556.50299257,
+          "collateralPrice": 0.99986,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 10359,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986331,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 10609,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986331,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 10857,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99987217,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 11108,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82556.50299257,
+          "collateralPrice": 0.99986,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 11358,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 11609,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.87945437,
+          "collateralPrice": 0.99987225,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 11698,
+      "message": {
+        "orderbook": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "orderbookDeltas": {
+            "asksDeltas": [
+              { "size": -0.012113096, "price": 82655.536 },
+              { "size": 0.012113096, "price": 82655.536 },
+              { "size": -0.018169644, "price": 82667.933 },
+              { "size": 0.018169644, "price": 82667.933 },
+              { "size": -0.06056548, "price": 82688.595 },
+              { "size": 0.06056548, "price": 82688.595 }
+            ],
+            "bidsDeltas": [
+              { "size": -0.012113096, "price": 82515.139 },
+              { "size": 0.012113096, "price": 82515.139 },
+              { "size": -0.018169644, "price": 82502.76 },
+              { "size": 0.018169644, "price": 82502.76 },
+              { "size": -0.06056548, "price": 82452.135 },
+              { "size": 0.06056548, "price": 82452.135 }
+            ],
+            "asksTotalSizeDelta": 0,
+            "bidsTotalSizeDelta": 0,
+            "nonce": "331595698n"
+          }
+        }
+      }
+    },
+    {
+      "elapsedMs": 11859,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99987224,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 12109,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.9998722,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 12358,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 12609,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986032,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 12859,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986132,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 13108,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 13345,
+      "message": {
+        "orderbook": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "orderbookDeltas": {
+            "asksDeltas": [
+              { "size": 0.012113096, "price": 82647.271 },
+              { "size": -0.012113096, "price": 82655.536 },
+              { "size": 0.018169644, "price": 82659.667 },
+              { "size": -0.018169644, "price": 82667.933 },
+              { "size": 0.06056548, "price": 82680.326 },
+              { "size": -0.06056548, "price": 82688.595 }
+            ],
+            "bidsDeltas": [
+              { "size": 0.012113096, "price": 82523.391 },
+              { "size": -0.012113096, "price": 82515.139 },
+              { "size": 0.018169644, "price": 82511.011 },
+              { "size": -0.018169644, "price": 82502.76 },
+              { "size": 0.06056548, "price": 82460.381 },
+              { "size": -0.06056548, "price": 82452.135 }
+            ],
+            "asksTotalSizeDelta": 0,
+            "bidsTotalSizeDelta": 0,
+            "nonce": "331595699n"
+          }
+        }
+      }
+    },
+    {
+      "elapsedMs": 13358,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.9998722,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 13608,
+      "message": {
+        "market": {
+          "packageId": "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7",
+          "objectId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "collateralCoinType": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+          "marketParams": {
+            "marginRatioInitial": 0.05,
+            "marginRatioMaintenance": 0.025,
+            "baseAssetSymbol": "BTCUSD",
+            "basePriceFeedId": 0,
+            "collateralPriceFeedId": 1,
+            "fundingFrequencyMs": "3600000n",
+            "fundingPeriodMs": "28800000n",
+            "premiumTwapFrequencyMs": "60000n",
+            "premiumTwapPeriodMs": "3600000n",
+            "spreadTwapFrequencyMs": "5000n",
+            "spreadTwapPeriodMs": "60000n",
+            "makerFee": -0.00005,
+            "takerFee": 0.00045,
+            "liquidationFee": 0.005,
+            "insuranceFundFee": 0.0005,
+            "minOrderUsdValue": 1,
+            "lotSize": "1n",
+            "tickSize": "1000000n",
+            "scalingFactor": 0.000001,
+            "priorityTakerFee": 0.001,
+            "maxPendingOrders": "80n",
+            "baseOracleTolerance": "15000n",
+            "collateralOracleTolerance": "30000n",
+            "maxOpenInterest": 10,
+            "maxOpenInterestThreshold": 2,
+            "maxOpenInterestPositionPercent": 0.5
+          },
+          "marketState": {
+            "cumFundingRateLong": -783.2977574552036,
+            "cumFundingRateShort": -783.2977574552036,
+            "fundingLastUpdateTimestamp": 1791583200017,
+            "premiumTwap": 24.594083422328918,
+            "premiumTwapLastUpdateTimestamp": 1791586290180,
+            "spreadTwap": 13.895146657914662,
+            "spreadTwapLastUpdateTimestamp": 1791586336144,
+            "openInterest": 0.574171699,
+            "feesAccrued": 3666.101376187542
+          },
+          "collateralPrice": 0.99986382,
+          "indexPrice": 82558.6,
+          "markPrice": 82569.363,
+          "estimatedFundingRate": 0.00003723731298485088,
+          "nextFundingTimestampMs": "1791586800000n"
+        }
+      }
+    },
+    {
+      "elapsedMs": 13608,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986382,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 13858,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82556.49864994,
+          "collateralPrice": 0.99987217,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 14107,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.92343069,
+          "collateralPrice": 0.9998722,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 14358,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.92343069,
+          "collateralPrice": 0.9998722,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 14607,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.81773491,
+          "collateralPrice": 0.9998722,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 14859,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82556.49864994,
+          "collateralPrice": 0.99986032,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 15108,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.70949578,
+          "collateralPrice": 0.99987225,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 15345,
+      "message": {
+        "orderbook": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "orderbookDeltas": {
+            "asksDeltas": [
+              { "size": -0.012113096, "price": 82647.271 },
+              { "size": 0.012113096, "price": 82647.271 },
+              { "size": -0.018169644, "price": 82659.667 },
+              { "size": 0.018169644, "price": 82659.667 },
+              { "size": -0.06056548, "price": 82680.326 },
+              { "size": 0.06056548, "price": 82680.326 }
+            ],
+            "bidsDeltas": [
+              { "size": -0.012113096, "price": 82523.391 },
+              { "size": 0.012113096, "price": 82523.391 },
+              { "size": -0.018169644, "price": 82511.011 },
+              { "size": 0.018169644, "price": 82511.011 },
+              { "size": -0.06056548, "price": 82460.381 },
+              { "size": 0.06056548, "price": 82460.381 }
+            ],
+            "asksTotalSizeDelta": 0,
+            "bidsTotalSizeDelta": 0,
+            "nonce": "331595700n"
+          }
+        }
+      }
+    },
+    {
+      "elapsedMs": 15359,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82556.49864994,
+          "collateralPrice": 0.99986,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 15607,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.65960877,
+          "collateralPrice": 0.99986,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 15860,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.65960877,
+          "collateralPrice": 0.9998722,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 16110,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.57082445,
+          "collateralPrice": 0.99987218,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 16393,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82556.49864994,
+          "collateralPrice": 0.99986,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 16607,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82556.49864994,
+          "collateralPrice": 0.99986,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 16880,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82556.49864994,
+          "collateralPrice": 0.99986,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 17148,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 17339,
+      "message": {
+        "orderbook": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "orderbookDeltas": {
+            "asksDeltas": [
+              { "size": -0.012113096, "price": 82647.271 },
+              { "size": 0.012113096, "price": 82647.271 },
+              { "size": -0.018169644, "price": 82659.667 },
+              { "size": 0.018169644, "price": 82659.667 },
+              { "size": -0.06056548, "price": 82680.326 },
+              { "size": 0.06056548, "price": 82680.326 }
+            ],
+            "bidsDeltas": [
+              { "size": -0.012113096, "price": 82523.391 },
+              { "size": 0.012113096, "price": 82523.391 },
+              { "size": -0.018169644, "price": 82511.011 },
+              { "size": 0.018169644, "price": 82511.011 },
+              { "size": -0.06056548, "price": 82460.381 },
+              { "size": 0.06056548, "price": 82460.381 }
+            ],
+            "asksTotalSizeDelta": 0,
+            "bidsTotalSizeDelta": 0,
+            "nonce": "331595701n"
+          }
+        }
+      }
+    },
+    {
+      "elapsedMs": 17358,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986355,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 17615,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986355,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 17866,
+      "message": {
+        "market": {
+          "packageId": "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7",
+          "objectId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "collateralCoinType": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+          "marketParams": {
+            "marginRatioInitial": 0.05,
+            "marginRatioMaintenance": 0.025,
+            "baseAssetSymbol": "BTCUSD",
+            "basePriceFeedId": 0,
+            "collateralPriceFeedId": 1,
+            "fundingFrequencyMs": "3600000n",
+            "fundingPeriodMs": "28800000n",
+            "premiumTwapFrequencyMs": "60000n",
+            "premiumTwapPeriodMs": "3600000n",
+            "spreadTwapFrequencyMs": "5000n",
+            "spreadTwapPeriodMs": "60000n",
+            "makerFee": -0.00005,
+            "takerFee": 0.00045,
+            "liquidationFee": 0.005,
+            "insuranceFundFee": 0.0005,
+            "minOrderUsdValue": 1,
+            "lotSize": "1n",
+            "tickSize": "1000000n",
+            "scalingFactor": 0.000001,
+            "priorityTakerFee": 0.001,
+            "maxPendingOrders": "80n",
+            "baseOracleTolerance": "15000n",
+            "collateralOracleTolerance": "30000n",
+            "maxOpenInterest": 10,
+            "maxOpenInterestThreshold": 2,
+            "maxOpenInterestPositionPercent": 0.5
+          },
+          "marketState": {
+            "cumFundingRateLong": -783.2977574552036,
+            "cumFundingRateShort": -783.2977574552036,
+            "fundingLastUpdateTimestamp": 1791583200017,
+            "premiumTwap": 24.594083422328918,
+            "premiumTwapLastUpdateTimestamp": 1791586290180,
+            "spreadTwap": 13.58323465078636,
+            "spreadTwapLastUpdateTimestamp": 1791586342120,
+            "openInterest": 0.574171699,
+            "feesAccrued": 3666.101376187542
+          },
+          "collateralPrice": 0.99986182,
+          "indexPrice": 82558.6,
+          "markPrice": 82569.363,
+          "estimatedFundingRate": 0.00003723731298485088,
+          "nextFundingTimestampMs": "1791586800000n"
+        }
+      }
+    },
+    {
+      "elapsedMs": 17866,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986182,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 18107,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986122,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 18380,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.9998722,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 18608,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986122,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 18871,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 19109,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82556.25932656,
+          "collateralPrice": 0.9998722,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 19349,
+      "message": {
+        "orderbook": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "orderbookDeltas": {
+            "asksDeltas": [
+              { "size": -0.012113096, "price": 82647.271 },
+              { "size": 0.012113096, "price": 82651.403 },
+              { "size": -0.018169644, "price": 82659.667 },
+              { "size": 0.018169644, "price": 82663.8 },
+              { "size": -0.06056548, "price": 82680.326 },
+              { "size": 0.06056548, "price": 82684.46 }
+            ],
+            "bidsDeltas": [
+              { "size": -0.012113096, "price": 82523.391 },
+              { "size": 0.012113096, "price": 82519.265 },
+              { "size": -0.018169644, "price": 82511.011 },
+              { "size": 0.018169644, "price": 82506.886 },
+              { "size": -0.06056548, "price": 82460.381 },
+              { "size": 0.06056548, "price": 82456.258 }
+            ],
+            "asksTotalSizeDelta": 0,
+            "bidsTotalSizeDelta": 0,
+            "nonce": "331595702n"
+          }
+        }
+      }
+    },
+    {
+      "elapsedMs": 19357,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99986005,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 19609,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99987223,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 19858,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82556.25932656,
+          "collateralPrice": 0.99986,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 20108,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82556.96823053,
+          "collateralPrice": 0.99986,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 20386,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99987157,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 20607,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.6,
+          "collateralPrice": 0.99987157,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 20866,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.65,
+          "collateralPrice": 0.99986005,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 21109,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82556.97956504,
+          "collateralPrice": 0.99986787,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 21358,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.00354992,
+          "collateralPrice": 0.9998618,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 21626,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.65,
+          "collateralPrice": 0.99986785,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 21737,
+      "message": {
+        "orderbook": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "orderbookDeltas": {
+            "asksDeltas": [
+              { "size": -0.012113096, "price": 82651.403 },
+              { "size": 0.012113096, "price": 82651.403 },
+              { "size": -0.018169644, "price": 82663.8 },
+              { "size": 0.018169644, "price": 82663.8 },
+              { "size": -0.06056548, "price": 82684.46 },
+              { "size": 0.06056548, "price": 82684.46 }
+            ],
+            "bidsDeltas": [
+              { "size": -0.012113096, "price": 82519.265 },
+              { "size": 0.012113096, "price": 82519.265 },
+              { "size": -0.018169644, "price": 82506.886 },
+              { "size": 0.018169644, "price": 82506.886 },
+              { "size": -0.06056548, "price": 82456.258 },
+              { "size": 0.06056548, "price": 82456.258 }
+            ],
+            "asksTotalSizeDelta": 0,
+            "bidsTotalSizeDelta": 0,
+            "nonce": "331595703n"
+          }
+        }
+      }
+    },
+    {
+      "elapsedMs": 21857,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.00354992,
+          "collateralPrice": 0.9998618,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 22124,
+      "message": {
+        "market": {
+          "packageId": "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7",
+          "objectId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "collateralCoinType": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+          "marketParams": {
+            "marginRatioInitial": 0.05,
+            "marginRatioMaintenance": 0.025,
+            "baseAssetSymbol": "BTCUSD",
+            "basePriceFeedId": 0,
+            "collateralPriceFeedId": 1,
+            "fundingFrequencyMs": "3600000n",
+            "fundingPeriodMs": "28800000n",
+            "premiumTwapFrequencyMs": "60000n",
+            "premiumTwapPeriodMs": "3600000n",
+            "spreadTwapFrequencyMs": "5000n",
+            "spreadTwapPeriodMs": "60000n",
+            "makerFee": -0.00005,
+            "takerFee": 0.00045,
+            "liquidationFee": 0.005,
+            "insuranceFundFee": 0.0005,
+            "minOrderUsdValue": 1,
+            "lotSize": "1n",
+            "tickSize": "1000000n",
+            "scalingFactor": 0.000001,
+            "priorityTakerFee": 0.001,
+            "maxPendingOrders": "80n",
+            "baseOracleTolerance": "15000n",
+            "collateralOracleTolerance": "30000n",
+            "maxOpenInterest": 10,
+            "maxOpenInterestThreshold": 2,
+            "maxOpenInterestPositionPercent": 0.5
+          },
+          "marketState": {
+            "cumFundingRateLong": -783.2977574552036,
+            "cumFundingRateShort": -783.2977574552036,
+            "fundingLastUpdateTimestamp": 1791583200017,
+            "premiumTwap": 24.594083422328918,
+            "premiumTwapLastUpdateTimestamp": 1791586290180,
+            "spreadTwap": 13.293835884460655,
+            "spreadTwapLastUpdateTimestamp": 1791586348278,
+            "openInterest": 0.574171699,
+            "feesAccrued": 3666.101376187542
+          },
+          "collateralPrice": 0.99986518,
+          "indexPrice": 82557.45526077,
+          "markPrice": 82569.363,
+          "estimatedFundingRate": 0.00003723782931633012,
+          "nextFundingTimestampMs": "1791586800000n"
+        }
+      }
+    },
+    {
+      "elapsedMs": 22124,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.45526077,
+          "collateralPrice": 0.99986518,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 22362,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.45526077,
+          "collateralPrice": 0.99986786,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 22608,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.65,
+          "collateralPrice": 0.9998621,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 22859,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.65,
+          "collateralPrice": 0.99986787,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 23108,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.36444149,
+          "collateralPrice": 0.99986185,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 23353,
+      "message": {
+        "orderbook": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "orderbookDeltas": {
+            "asksDeltas": [
+              { "size": -0.012113096, "price": 82651.403 },
+              { "size": 0.012113096, "price": 82659.666 },
+              { "size": -0.018169644, "price": 82663.8 },
+              { "size": 0.018169645, "price": 82672.063 },
+              { "size": -0.06056548, "price": 82684.46 },
+              { "size": 0.060565483, "price": 82692.726 }
+            ],
+            "bidsDeltas": [
+              { "size": -0.012113096, "price": 82519.265 },
+              { "size": 0.012113096, "price": 82511.01 },
+              { "size": -0.018169644, "price": 82506.886 },
+              { "size": 0.018169645, "price": 82498.632 },
+              { "size": -0.06056548, "price": 82456.258 },
+              { "size": 0.060565483, "price": 82448.009 }
+            ],
+            "asksTotalSizeDelta": 4.0000000117723644e-9,
+            "bidsTotalSizeDelta": 4.0000000117723644e-9,
+            "nonce": "331595704n"
+          }
+        }
+      }
+    },
+    {
+      "elapsedMs": 23382,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.65,
+          "collateralPrice": 0.99986761,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 23650,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.60241949,
+          "collateralPrice": 0.99986614,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 23857,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.48898769,
+          "collateralPrice": 0.99986898,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 24107,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.31490938,
+          "collateralPrice": 0.99986281,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 24358,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.31490938,
+          "collateralPrice": 0.99986231,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 24608,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.31490938,
+          "collateralPrice": 0.99986231,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 24858,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.31490938,
+          "collateralPrice": 0.99987658,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 25108,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.31490938,
+          "collateralPrice": 0.99986725,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 25382,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.31490938,
+          "collateralPrice": 0.99986725,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 25608,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.36444149,
+          "collateralPrice": 0.99986725,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 25680,
+      "message": {
+        "orderbook": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "orderbookDeltas": {
+            "asksDeltas": [
+              { "size": 0.012113096, "price": 82651.402 },
+              { "size": -0.012113096, "price": 82659.666 },
+              { "size": 0.018169644, "price": 82663.799 },
+              { "size": -0.018169645, "price": 82672.063 },
+              { "size": 0.060565481, "price": 82684.459 },
+              { "size": -0.060565483, "price": 82692.726 }
+            ],
+            "bidsDeltas": [
+              { "size": 0.012113096, "price": 82519.264 },
+              { "size": -0.012113096, "price": 82511.01 },
+              { "size": 0.018169644, "price": 82506.885 },
+              { "size": -0.018169645, "price": 82498.632 },
+              { "size": 0.060565481, "price": 82456.257 },
+              { "size": -0.060565483, "price": 82448.009 }
+            ],
+            "asksTotalSizeDelta": -3.0000000122987203e-9,
+            "bidsTotalSizeDelta": -3.0000000122987203e-9,
+            "nonce": "331595705n"
+          }
+        }
+      }
+    },
+    {
+      "elapsedMs": 25858,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.36444149,
+          "collateralPrice": 0.99986478,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 26136,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.64101852,
+          "collateralPrice": 0.99986245,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 26358,
+      "message": {
+        "market": {
+          "packageId": "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7",
+          "objectId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "collateralCoinType": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+          "marketParams": {
+            "marginRatioInitial": 0.05,
+            "marginRatioMaintenance": 0.025,
+            "baseAssetSymbol": "BTCUSD",
+            "basePriceFeedId": 0,
+            "collateralPriceFeedId": 1,
+            "fundingFrequencyMs": "3600000n",
+            "fundingPeriodMs": "28800000n",
+            "premiumTwapFrequencyMs": "60000n",
+            "premiumTwapPeriodMs": "3600000n",
+            "spreadTwapFrequencyMs": "5000n",
+            "spreadTwapPeriodMs": "60000n",
+            "makerFee": -0.00005,
+            "takerFee": 0.00045,
+            "liquidationFee": 0.005,
+            "insuranceFundFee": 0.0005,
+            "minOrderUsdValue": 1,
+            "lotSize": "1n",
+            "tickSize": "1000000n",
+            "scalingFactor": 0.000001,
+            "priorityTakerFee": 0.001,
+            "maxPendingOrders": "80n",
+            "baseOracleTolerance": "15000n",
+            "collateralOracleTolerance": "30000n",
+            "maxOpenInterest": 10,
+            "maxOpenInterestThreshold": 2,
+            "maxOpenInterestPositionPercent": 0.5
+          },
+          "marketState": {
+            "cumFundingRateLong": -783.2977574552036,
+            "cumFundingRateShort": -783.2977574552036,
+            "fundingLastUpdateTimestamp": 1791583200017,
+            "premiumTwap": 24.36078864726703,
+            "premiumTwapLastUpdateTimestamp": 1791586352183,
+            "spreadTwap": 13.293835884460655,
+            "spreadTwapLastUpdateTimestamp": 1791586348278,
+            "openInterest": 0.574171699,
+            "feesAccrued": 3666.101376187542
+          },
+          "collateralPrice": 0.99986245,
+          "indexPrice": 82557.99587336,
+          "markPrice": 82569.363,
+          "estimatedFundingRate": 0.000036884356853567625,
+          "nextFundingTimestampMs": "1791586800000n"
+        }
+      }
+    },
+    {
+      "elapsedMs": 26358,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.99587336,
+          "collateralPrice": 0.99986245,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 26607,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.99587336,
+          "collateralPrice": 0.99986766,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 26861,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.99587336,
+          "collateralPrice": 0.99986245,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 27146,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.99587336,
+          "collateralPrice": 0.99986764,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 27359,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.99587336,
+          "collateralPrice": 0.99986264,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 27609,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.69692972,
+          "collateralPrice": 0.99986264,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 27693,
+      "message": {
+        "orderbook": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "orderbookDeltas": {
+            "asksDeltas": [
+              { "size": 0.012113096, "price": 82647.27 },
+              { "size": -0.012113096, "price": 82651.402 },
+              { "size": 0.018169644, "price": 82659.666 },
+              { "size": -0.018169644, "price": 82663.799 },
+              { "size": 0.060565481, "price": 82680.325 },
+              { "size": -0.060565481, "price": 82684.459 }
+            ],
+            "bidsDeltas": [
+              { "size": 0.012113096, "price": 82523.39 },
+              { "size": -0.012113096, "price": 82519.264 },
+              { "size": 0.018169644, "price": 82511.01 },
+              { "size": -0.018169644, "price": 82506.885 },
+              { "size": 0.060565481, "price": 82460.38 },
+              { "size": -0.060565481, "price": 82456.257 }
+            ],
+            "asksTotalSizeDelta": 0,
+            "bidsTotalSizeDelta": 0,
+            "nonce": "331595706n"
+          }
+        }
+      }
+    },
+    {
+      "elapsedMs": 27863,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.69692972,
+          "collateralPrice": 0.99986264,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 28107,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.36444149,
+          "collateralPrice": 0.99986371,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 28357,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.99587336,
+          "collateralPrice": 0.99986768,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 28646,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.36444149,
+          "collateralPrice": 0.99986521,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 28858,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.6445225,
+          "collateralPrice": 0.99986765,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 29108,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82557.99587336,
+          "collateralPrice": 0.99986837,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 29340,
+      "message": {
+        "orderbook": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "orderbookDeltas": {
+            "asksDeltas": [
+              { "size": -0.012113096, "price": 82647.27 },
+              { "size": 0.012113096, "price": 82651.403 },
+              { "size": -0.018169644, "price": 82659.666 },
+              { "size": 0.018169644, "price": 82663.799 },
+              { "size": -0.060565481, "price": 82680.325 },
+              { "size": 0.060565481, "price": 82684.46 }
+            ],
+            "bidsDeltas": [
+              { "size": -0.012113096, "price": 82523.39 },
+              { "size": 0.012113096, "price": 82519.265 },
+              { "size": -0.018169644, "price": 82511.01 },
+              { "size": 0.018169644, "price": 82506.886 },
+              { "size": -0.060565481, "price": 82460.38 },
+              { "size": 0.060565481, "price": 82456.257 }
+            ],
+            "asksTotalSizeDelta": 0,
+            "bidsTotalSizeDelta": 0,
+            "nonce": "331595707n"
+          }
+        }
+      }
+    },
+    {
+      "elapsedMs": 29361,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.14987965,
+          "collateralPrice": 0.99986812,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 29618,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.14987965,
+          "collateralPrice": 0.99986812,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    },
+    {
+      "elapsedMs": 29858,
+      "message": {
+        "oracle": {
+          "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+          "basePrice": 82558.15528231,
+          "collateralPrice": 0.99986689,
+          "markPrice": 82569.363,
+          "bookPrice": 82569.363
+        }
+      }
+    }
+  ]
+}

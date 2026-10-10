@@ -1,0 +1,7 @@
+- symbol: BTC
+  enabled: true
+  aftermath: {marketId: auto}
+  lighter: {marketId: auto}
+  clipUsd: 50
+  maxPositionUsd: 500
+  levels: 1

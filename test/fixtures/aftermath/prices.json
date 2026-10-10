@@ -1,0 +1,11 @@
+{
+  "marketsPrices": [
+    {
+      "marketId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+      "basePrice": 82559.04054778,
+      "collateralPrice": 0.99987398,
+      "midPrice": 82569.363,
+      "markPrice": 82569.363
+    }
+  ]
+}

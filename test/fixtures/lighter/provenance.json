@@ -1,0 +1,20 @@
+{
+  "recordedAt": "2026-10-09T22:57:49.157Z",
+  "network": "mainnet",
+  "durationSeconds": 30,
+  "channels": ["order_book/1", "market_stats/all"],
+  "publicEndpoints": [
+    "orderBookDetails",
+    "orderBookOrders",
+    "fundings",
+    "funding-rates"
+  ],
+  "redactions": ["orderBookOrders.owner_account_index"],
+  "accountFixture": "synthetic; official account-1 schema, not live verified",
+  "docs": "https://apidocs.lighter.xyz/llms.txt",
+  "books": 484,
+  "gaps": 0,
+  "pongs": 2,
+  "disconnects": 0,
+  "faults": 0
+}

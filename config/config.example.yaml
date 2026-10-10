@@ -1,0 +1,62 @@
+# Secrets are read ONLY from AF_AGENT_PRIVATE_KEY and LIGHTER_API_PRIVATE_KEY.
+# Export them in the process environment; never put private keys in either YAML.
+profile: mainnet # Public paper data needs no keys.
+mode: paper # Control-command mode; run defaults to paper unless --mode is given.
+aftermath:
+  # baseUrl: https://aftermath.finance # Optional profile override.
+  # grpcUrl: https://fullnode.mainnet.sui.io:443 # Optional profile override.
+  gas:
+    mode: sui # sui, gas-pool, or dynamic-gas.
+    maxGasBudgetMist: '100000000' # Positive integer string; 1 SUI = 1e9 MIST.
+    # gasPool: # Required only for mode: gas-pool.
+    #   ownerAddress: '0x1' # Pool owner's Sui hex address.
+    #   termsBytesB64: YQ== # Placeholder only; use setup aftermath terms-signature.
+    #   termsSignature: replace-with-pool-terms-signature # Public signed terms.
+    #   gasBudgetMist: '50000000' # Positive, <= maxGasBudgetMist.
+    # dynamicGas: # Required only for mode: dynamic-gas.
+    #   coinType: '0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC' # Mainnet USDC; pay per tx.
+  # agentAddress: '0x1' # Optional agent's public Sui address.
+  # accountId: '1' # Optional unsigned integer string; preserve full precision.
+  quoteTtlMs: 600000 # Positive order lifetime in milliseconds.
+  afResnapshotMs: 15000 # REST refresh of book and market state.
+  oraclePollMs: 3000 # Sui price-feed timestamp verification.
+  heartbeatMs: 10000 # Positive heartbeat period in milliseconds.
+  minRequoteTicks: 1 # Nonnegative integer price-change tolerance in ticks.
+  maxRequotesPerMinute: 6 # Positive integer replacement-batch limit per minute.
+lighter:
+  # baseUrl: https://mainnet.zklighter.elliot.ai # Optional profile endpoint override.
+  # chainId: 304 # Optional positive integer chain ID override.
+  accountIndex: 0 # Nonnegative integer; configure your own account index.
+  apiKeyIndex: 4 # Integer 4..254; use an API trading key slot.
+  tier: standard # standard, plus, or premium; actual fees are venue inputs.
+  maxSlippageBps: 50 # Initial hedge limit, 0..400 bp; 100 bp = 1%.
+  emergencySlippageBps: 100 # One retry limit, initial limit..400 bp.
+strategy:
+  # set your own values before dry/live; the bot ships no tuned defaults.
+  # Values below are neutral placeholders used in paper when omitted.
+  # holdHours: 1 # Positive finite carry projection horizon in hours.
+  # eta: 0 # Carry haircut fraction, 0..1.
+  # kPhi: 0 # Nonnegative finite funding uncertainty multiplier.
+  # kBasis: 0 # Reserved nonnegative finite basis weight; not yet consumed by runtime.
+  # epsInBp: 0 # Nonnegative finite entry edge allowance in basis points.
+  # exitTakerShare: 0 # Reserved exit taker fraction, 0..1.
+  # skew:
+  #   s1: 0 # Nonnegative finite linear inventory coefficient in bp.
+  #   s3: 0 # Nonnegative finite cubic inventory coefficient in bp.
+  compressionBudgetBp: 0 # 0 is profitable-only; positive bp allows estimated losses.
+  allowAfTaking: false # Reserved flag; opening quotes remain post-only.
+risk:
+  maxUnhedgedUsd: 100 # Positive maximum unmatched exposure in USD.
+  maxUnhedgedAgeMs: 10000 # Positive maximum unmatched exposure age in milliseconds.
+  maxTotalNotionalUsd: 2000 # Positive AF-leg notional limit across markets and pending increases in USD.
+  dailyLossLimitUsd: 100 # Positive daily recorded trade/funding/gas loss limit in USD.
+  stalenessMs:
+    afBook: 30000 # REST-verified every 15s; 30s floor.
+    afOracle: 10000 # Authoritative price timestamp; below venue 15s tolerance.
+    lighterBook: 10000 # >= 3x observed p99 (2697ms), rounded up.
+    afMarket: 30000 # >= 3x observed p99 (4450ms), REST floor 30s.
+    lighterStats: 30000 # >= 3x observed p99 (8037ms), rounded up.
+    liveness: 15000 # Any socket frame; Lighter ping every 5s.
+  basisBandBp: 50 # Positive allowed deviation from the basis EMA in bp.
+  minMarginHeadroomPct: 20 # Minimum free margin headroom, 0..100 percent.
+  pauseWhenSessionClosed: true # Cancel quoting when the venue session is closed.

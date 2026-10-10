@@ -1,0 +1,3325 @@
+{
+  "code": 200,
+  "funding_rates": [
+    {
+      "market_id": 139,
+      "exchange": "binance",
+      "symbol": "SNDK",
+      "rate": 0.00038899
+    },
+    {
+      "market_id": 19,
+      "exchange": "binance",
+      "symbol": "1000FLOKI",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 66,
+      "exchange": "binance",
+      "symbol": "USELESS",
+      "rate": 0.00063946
+    },
+    {
+      "market_id": 179,
+      "exchange": "binance",
+      "symbol": "TTWO",
+      "rate": 0.00047768
+    },
+    {
+      "market_id": 158,
+      "exchange": "binance",
+      "symbol": "NATGAS",
+      "rate": 0.00657034
+    },
+    {
+      "market_id": 60,
+      "exchange": "binance",
+      "symbol": "ZRO",
+      "rate": 0.00009292
+    },
+    {
+      "market_id": 193,
+      "exchange": "binance",
+      "symbol": "ANTHROPIC",
+      "rate": 0.00005
+    },
+    { "market_id": 201, "exchange": "binance", "symbol": "TENCENT", "rate": 0 },
+    {
+      "market_id": 153,
+      "exchange": "binance",
+      "symbol": "IWM",
+      "rate": 0.00003418
+    },
+    { "market_id": 186, "exchange": "binance", "symbol": "RKLB", "rate": 0 },
+    {
+      "market_id": 212,
+      "exchange": "binance",
+      "symbol": "CAP",
+      "rate": 0.00097108
+    },
+    { "market_id": 113, "exchange": "binance", "symbol": "AAPL", "rate": 0 },
+    {
+      "market_id": 119,
+      "exchange": "binance",
+      "symbol": "XLM",
+      "rate": 0.00006974
+    },
+    {
+      "market_id": 131,
+      "exchange": "binance",
+      "symbol": "AXS",
+      "rate": 0.0001
+    },
+    { "market_id": 151, "exchange": "binance", "symbol": "ASML", "rate": 0 },
+    {
+      "market_id": 55,
+      "exchange": "binance",
+      "symbol": "OP",
+      "rate": 0.00008525
+    },
+    { "market_id": 165, "exchange": "binance", "symbol": "ORCL", "rate": 0 },
+    { "market_id": 128, "exchange": "binance", "symbol": "SPY", "rate": 0 },
+    { "market_id": 200, "exchange": "binance", "symbol": "BYD", "rate": 0 },
+    {
+      "market_id": 226,
+      "exchange": "binance",
+      "symbol": "KORU",
+      "rate": 0.00023338
+    },
+    {
+      "market_id": 52,
+      "exchange": "binance",
+      "symbol": "GRASS",
+      "rate": 0.0001
+    },
+    { "market_id": 91, "exchange": "binance", "symbol": "MON", "rate": 0.0001 },
+    { "market_id": 42, "exchange": "binance", "symbol": "SPX", "rate": 0.0001 },
+    {
+      "market_id": 195,
+      "exchange": "binance",
+      "symbol": "DRAM",
+      "rate": 0.0001247
+    },
+    { "market_id": 164, "exchange": "binance", "symbol": "MU", "rate": 0 },
+    {
+      "market_id": 81,
+      "exchange": "binance",
+      "symbol": "1000TOSHI",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 89,
+      "exchange": "binance",
+      "symbol": "EDEN",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 127,
+      "exchange": "binance",
+      "symbol": "DASH",
+      "rate": -0.00000837
+    },
+    {
+      "market_id": 31,
+      "exchange": "binance",
+      "symbol": "APT",
+      "rate": 0.00006436
+    },
+    {
+      "market_id": 194,
+      "exchange": "binance",
+      "symbol": "SPCX",
+      "rate": 0.00001762
+    },
+    {
+      "market_id": 102,
+      "exchange": "binance",
+      "symbol": "ICP",
+      "rate": 0.0001
+    },
+    { "market_id": 233, "exchange": "binance", "symbol": "RAY", "rate": 0 },
+    {
+      "market_id": 44,
+      "exchange": "binance",
+      "symbol": "SYRUP",
+      "rate": 0.0001
+    },
+    { "market_id": 222, "exchange": "binance", "symbol": "SOXS", "rate": 0 },
+    { "market_id": 216, "exchange": "binance", "symbol": "SKHY", "rate": 0 },
+    {
+      "market_id": 23,
+      "exchange": "binance",
+      "symbol": "POPCAT",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 167,
+      "exchange": "binance",
+      "symbol": "CRWV",
+      "rate": 0.00012145
+    },
+    {
+      "market_id": 175,
+      "exchange": "binance",
+      "symbol": "CBRS",
+      "rate": 0.00003249
+    },
+    { "market_id": 112, "exchange": "binance", "symbol": "TSLA", "rate": 0 },
+    {
+      "market_id": 9,
+      "exchange": "binance",
+      "symbol": "AVAX",
+      "rate": 0.00000459
+    },
+    {
+      "market_id": 83,
+      "exchange": "binance",
+      "symbol": "ASTER",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 159,
+      "exchange": "binance",
+      "symbol": "BRENTOIL",
+      "rate": -0.00254524
+    },
+    {
+      "market_id": 46,
+      "exchange": "binance",
+      "symbol": "LDO",
+      "rate": -0.00000262
+    },
+    {
+      "market_id": 134,
+      "exchange": "binance",
+      "symbol": "JTO",
+      "rate": 0.00009954
+    },
+    { "market_id": 13, "exchange": "binance", "symbol": "TAO", "rate": 0.0001 },
+    {
+      "market_id": 104,
+      "exchange": "binance",
+      "symbol": "STRK",
+      "rate": 0.00001078
+    },
+    {
+      "market_id": 21,
+      "exchange": "binance",
+      "symbol": "FARTCOIN",
+      "rate": 0.0001
+    },
+    { "market_id": 206, "exchange": "binance", "symbol": "ARM", "rate": 0 },
+    { "market_id": 210, "exchange": "binance", "symbol": "AVGO", "rate": 0 },
+    { "market_id": 228, "exchange": "binance", "symbol": "MRNA", "rate": 0 },
+    { "market_id": 36, "exchange": "binance", "symbol": "CRV", "rate": 0.0001 },
+    { "market_id": 143, "exchange": "binance", "symbol": "SKHYNIX", "rate": 0 },
+    { "market_id": 116, "exchange": "binance", "symbol": "GOOGL", "rate": 0 },
+    { "market_id": 196, "exchange": "binance", "symbol": "BE", "rate": 0 },
+    {
+      "market_id": 26,
+      "exchange": "binance",
+      "symbol": "JUP",
+      "rate": 0.0000153
+    },
+    {
+      "market_id": 43,
+      "exchange": "binance",
+      "symbol": "TRX",
+      "rate": -0.00043592
+    },
+    {
+      "market_id": 72,
+      "exchange": "binance",
+      "symbol": "WLFI",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 20,
+      "exchange": "binance",
+      "symbol": "BERA",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 45,
+      "exchange": "binance",
+      "symbol": "PUMP",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 1,
+      "exchange": "binance",
+      "symbol": "BTC",
+      "rate": 0.00006877
+    },
+    { "market_id": 209, "exchange": "binance", "symbol": "QCOM", "rate": 0 },
+    {
+      "market_id": 224,
+      "exchange": "binance",
+      "symbol": "AXTI",
+      "rate": 0.00043422
+    },
+    { "market_id": 188, "exchange": "binance", "symbol": "IBM", "rate": 0 },
+    {
+      "market_id": 12,
+      "exchange": "binance",
+      "symbol": "GRAM",
+      "rate": -0.00025764
+    },
+    {
+      "market_id": 85,
+      "exchange": "binance",
+      "symbol": "STBL",
+      "rate": 0.0001
+    },
+    { "market_id": 185, "exchange": "binance", "symbol": "BOT", "rate": 0 },
+    { "market_id": 109, "exchange": "binance", "symbol": "COIN", "rate": 0 },
+    { "market_id": 115, "exchange": "binance", "symbol": "MSFT", "rate": 0 },
+    {
+      "market_id": 157,
+      "exchange": "binance",
+      "symbol": "EDGE",
+      "rate": 0.0003258
+    },
+    { "market_id": 71, "exchange": "binance", "symbol": "XPL", "rate": 0.0001 },
+    {
+      "market_id": 65,
+      "exchange": "binance",
+      "symbol": "AERO",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 133,
+      "exchange": "binance",
+      "symbol": "BIRB",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 27,
+      "exchange": "binance",
+      "symbol": "AAVE",
+      "rate": 0.00003235
+    },
+    {
+      "market_id": 18,
+      "exchange": "binance",
+      "symbol": "1000BONK",
+      "rate": 0.0001
+    },
+    { "market_id": 79, "exchange": "binance", "symbol": "SKY", "rate": 0.0001 },
+    { "market_id": 205, "exchange": "binance", "symbol": "ZHIPU", "rate": 0 },
+    {
+      "market_id": 53,
+      "exchange": "binance",
+      "symbol": "ZORA",
+      "rate": 0.0001
+    },
+    { "market_id": 148, "exchange": "binance", "symbol": "HANMI", "rate": 0 },
+    {
+      "market_id": 183,
+      "exchange": "binance",
+      "symbol": "CTR",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 231,
+      "exchange": "binance",
+      "symbol": "PONS",
+      "rate": 0.0001
+    },
+    { "market_id": 211, "exchange": "binance", "symbol": "BB", "rate": 0.0001 },
+    {
+      "market_id": 215,
+      "exchange": "binance",
+      "symbol": "FOLKS",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 118,
+      "exchange": "binance",
+      "symbol": "STABLE",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 152,
+      "exchange": "binance",
+      "symbol": "DIA",
+      "rate": 0.0001
+    },
+    { "market_id": 147, "exchange": "binance", "symbol": "XPT", "rate": 0 },
+    {
+      "market_id": 168,
+      "exchange": "binance",
+      "symbol": "TSM",
+      "rate": 0.00013985
+    },
+    {
+      "market_id": 39,
+      "exchange": "binance",
+      "symbol": "ADA",
+      "rate": 0.00008757
+    },
+    {
+      "market_id": 4,
+      "exchange": "binance",
+      "symbol": "1000PEPE",
+      "rate": -0.00001188
+    },
+    {
+      "market_id": 67,
+      "exchange": "binance",
+      "symbol": "TIA",
+      "rate": -0.0000236
+    },
+    {
+      "market_id": 7,
+      "exchange": "binance",
+      "symbol": "XRP",
+      "rate": 0.0000224
+    },
+    {
+      "market_id": 135,
+      "exchange": "binance",
+      "symbol": "PIPPIN",
+      "rate": 0.00192
+    },
+    {
+      "market_id": 137,
+      "exchange": "binance",
+      "symbol": "INTC",
+      "rate": 0.00014393
+    },
+    {
+      "market_id": 62,
+      "exchange": "binance",
+      "symbol": "DYDX",
+      "rate": 0.0000683
+    },
+    {
+      "market_id": 145,
+      "exchange": "binance",
+      "symbol": "WTI",
+      "rate": -0.00078384
+    },
+    {
+      "market_id": 94,
+      "exchange": "binance",
+      "symbol": "MEGA",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 189,
+      "exchange": "binance",
+      "symbol": "NBIS",
+      "rate": 0.00015733
+    },
+    {
+      "market_id": 207,
+      "exchange": "binance",
+      "symbol": "AAOI",
+      "rate": 0.00011173
+    },
+    { "market_id": 232, "exchange": "binance", "symbol": "AI", "rate": 0 },
+    {
+      "market_id": 190,
+      "exchange": "binance",
+      "symbol": "QNT",
+      "rate": -0.00010358
+    },
+    { "market_id": 114, "exchange": "binance", "symbol": "AMZN", "rate": 0 },
+    { "market_id": 69, "exchange": "binance", "symbol": "VVV", "rate": 0.0001 },
+    { "market_id": 214, "exchange": "binance", "symbol": "WEN", "rate": 0 },
+    {
+      "market_id": 58,
+      "exchange": "binance",
+      "symbol": "BCH",
+      "rate": -0.00006909
+    },
+    {
+      "market_id": 59,
+      "exchange": "binance",
+      "symbol": "HBAR",
+      "rate": 0.00004705
+    },
+    { "market_id": 138, "exchange": "binance", "symbol": "AMD", "rate": 0 },
+    { "market_id": 220, "exchange": "binance", "symbol": "UNITREE", "rate": 0 },
+    {
+      "market_id": 120,
+      "exchange": "binance",
+      "symbol": "LIT",
+      "rate": 0.0001
+    },
+    { "market_id": 140, "exchange": "binance", "symbol": "SAMSUNG", "rate": 0 },
+    {
+      "market_id": 49,
+      "exchange": "binance",
+      "symbol": "EIGEN",
+      "rate": 0.0001
+    },
+    { "market_id": 117, "exchange": "binance", "symbol": "META", "rate": 0 },
+    { "market_id": 84, "exchange": "binance", "symbol": "0G", "rate": 0.0001 },
+    {
+      "market_id": 126,
+      "exchange": "binance",
+      "symbol": "RIVER",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 78,
+      "exchange": "binance",
+      "symbol": "PYTH",
+      "rate": 0.0001
+    },
+    { "market_id": 11, "exchange": "binance", "symbol": "DOT", "rate": 0.0001 },
+    { "market_id": 92, "exchange": "binance", "symbol": "XAU", "rate": 0 },
+    { "market_id": 22, "exchange": "binance", "symbol": "AI16Z", "rate": 0 },
+    { "market_id": 123, "exchange": "binance", "symbol": "BMNR", "rate": 0 },
+    {
+      "market_id": 124,
+      "exchange": "binance",
+      "symbol": "FOGO",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 8,
+      "exchange": "binance",
+      "symbol": "LINK",
+      "rate": 0.00005022
+    },
+    {
+      "market_id": 144,
+      "exchange": "binance",
+      "symbol": "AZTEC",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 130,
+      "exchange": "binance",
+      "symbol": "SKR",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 90,
+      "exchange": "binance",
+      "symbol": "ZEC",
+      "rate": 0.00008417
+    },
+    { "market_id": 176, "exchange": "binance", "symbol": "GME", "rate": 0 },
+    {
+      "market_id": 47,
+      "exchange": "binance",
+      "symbol": "PENGU",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 88,
+      "exchange": "binance",
+      "symbol": "2Z",
+      "rate": 0.00009944
+    },
+    { "market_id": 111, "exchange": "binance", "symbol": "PLTR", "rate": 0 },
+    { "market_id": 25, "exchange": "binance", "symbol": "BNB", "rate": 0 },
+    { "market_id": 204, "exchange": "binance", "symbol": "POPMART", "rate": 0 },
+    { "market_id": 217, "exchange": "binance", "symbol": "CXMT", "rate": 0 },
+    { "market_id": 199, "exchange": "binance", "symbol": "MINIMAX", "rate": 0 },
+    { "market_id": 5, "exchange": "binance", "symbol": "WIF", "rate": 0.0001 },
+    { "market_id": 56, "exchange": "binance", "symbol": "ZK", "rate": 0.0001 },
+    { "market_id": 156, "exchange": "binance", "symbol": "STRC", "rate": 0 },
+    {
+      "market_id": 57,
+      "exchange": "binance",
+      "symbol": "PROVE",
+      "rate": 0.00005418
+    },
+    {
+      "market_id": 129,
+      "exchange": "binance",
+      "symbol": "QQQ",
+      "rate": 0.00024496
+    },
+    { "market_id": 146, "exchange": "binance", "symbol": "XPD", "rate": 0 },
+    {
+      "market_id": 74,
+      "exchange": "binance",
+      "symbol": "NMR",
+      "rate": -0.00000332
+    },
+    {
+      "market_id": 187,
+      "exchange": "binance",
+      "symbol": "DELL",
+      "rate": -0.00030637
+    },
+    {
+      "market_id": 33,
+      "exchange": "binance",
+      "symbol": "KAITO",
+      "rate": -0.00000452
+    },
+    {
+      "market_id": 149,
+      "exchange": "binance",
+      "symbol": "ROBO",
+      "rate": -0.0000162
+    },
+    {
+      "market_id": 37,
+      "exchange": "binance",
+      "symbol": "PENDLE",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 15,
+      "exchange": "binance",
+      "symbol": "TRUMP",
+      "rate": 0.0001
+    },
+    { "market_id": 121, "exchange": "binance", "symbol": "CRCL", "rate": 0 },
+    {
+      "market_id": 4097,
+      "exchange": "binance",
+      "symbol": "PRL",
+      "rate": 0.00046592
+    },
+    {
+      "market_id": 17,
+      "exchange": "binance",
+      "symbol": "1000SHIB",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 10,
+      "exchange": "binance",
+      "symbol": "NEAR",
+      "rate": 0.00009151
+    },
+    {
+      "market_id": 95,
+      "exchange": "binance",
+      "symbol": "MET",
+      "rate": -0.00023882
+    },
+    {
+      "market_id": 64,
+      "exchange": "binance",
+      "symbol": "ETHFI",
+      "rate": 0.00004714
+    },
+    {
+      "market_id": 163,
+      "exchange": "binance",
+      "symbol": "CHIP",
+      "rate": -0.00011334
+    },
+    { "market_id": 29, "exchange": "binance", "symbol": "ENA", "rate": 0.0001 },
+    {
+      "market_id": 41,
+      "exchange": "binance",
+      "symbol": "VIRTUAL",
+      "rate": 0.00001332
+    },
+    { "market_id": 101, "exchange": "binance", "symbol": "CC", "rate": 0.0001 },
+    { "market_id": 77, "exchange": "binance", "symbol": "XMR", "rate": 0.0001 },
+    {
+      "market_id": 35,
+      "exchange": "binance",
+      "symbol": "LTC",
+      "rate": -0.00002684
+    },
+    { "market_id": 218, "exchange": "binance", "symbol": "GEV", "rate": 0 },
+    {
+      "market_id": 110,
+      "exchange": "binance",
+      "symbol": "NVDA",
+      "rate": 0.00014479
+    },
+    { "market_id": 197, "exchange": "binance", "symbol": "SOXL", "rate": 0 },
+    { "market_id": 174, "exchange": "binance", "symbol": "MRVL", "rate": 0 },
+    {
+      "market_id": 38,
+      "exchange": "binance",
+      "symbol": "ONDO",
+      "rate": 0.00007014
+    },
+    { "market_id": 122, "exchange": "binance", "symbol": "MSTR", "rate": 0 },
+    {
+      "market_id": 6,
+      "exchange": "binance",
+      "symbol": "WLD",
+      "rate": 0.00002187
+    },
+    {
+      "market_id": 166,
+      "exchange": "binance",
+      "symbol": "EWY",
+      "rate": 0.00020334
+    },
+    {
+      "market_id": 125,
+      "exchange": "binance",
+      "symbol": "DUSK",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 3,
+      "exchange": "binance",
+      "symbol": "DOGE",
+      "rate": 0.00004653
+    },
+    { "market_id": 191, "exchange": "binance", "symbol": "NOW", "rate": 0 },
+    {
+      "market_id": 192,
+      "exchange": "binance",
+      "symbol": "OPENAI",
+      "rate": 0.00005
+    },
+    { "market_id": 178, "exchange": "binance", "symbol": "LITE", "rate": 0 },
+    { "market_id": 2, "exchange": "binance", "symbol": "SOL", "rate": 0.0001 },
+    {
+      "market_id": 171,
+      "exchange": "binance",
+      "symbol": "BIO",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 24,
+      "exchange": "binance",
+      "symbol": "HYPE",
+      "rate": 0.00009118
+    },
+    {
+      "market_id": 68,
+      "exchange": "binance",
+      "symbol": "MORPHO",
+      "rate": 0.0001
+    },
+    { "market_id": 16, "exchange": "binance", "symbol": "SUI", "rate": 0.0001 },
+    {
+      "market_id": 32,
+      "exchange": "binance",
+      "symbol": "SEI",
+      "rate": 0.00008343
+    },
+    {
+      "market_id": 103,
+      "exchange": "binance",
+      "symbol": "FIL",
+      "rate": 0.00005293
+    },
+    { "market_id": 14, "exchange": "binance", "symbol": "POL", "rate": 0.0001 },
+    {
+      "market_id": 4096,
+      "exchange": "binance",
+      "symbol": "OURA",
+      "rate": 0.00005
+    },
+    {
+      "market_id": 30,
+      "exchange": "binance",
+      "symbol": "UNI",
+      "rate": 0.00002198
+    },
+    { "market_id": 93, "exchange": "binance", "symbol": "XAG", "rate": 0 },
+    {
+      "market_id": 82,
+      "exchange": "binance",
+      "symbol": "AVNT",
+      "rate": 0.0001
+    },
+    { "market_id": 177, "exchange": "binance", "symbol": "BABA", "rate": 0 },
+    { "market_id": 136, "exchange": "binance", "symbol": "XCU", "rate": 0 },
+    {
+      "market_id": 132,
+      "exchange": "binance",
+      "symbol": "ARC",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 108,
+      "exchange": "binance",
+      "symbol": "HOOD",
+      "rate": 0.00030136
+    },
+    {
+      "market_id": 48,
+      "exchange": "binance",
+      "symbol": "PAXG",
+      "rate": -0.00002912
+    },
+    { "market_id": 223, "exchange": "binance", "symbol": "WDC", "rate": 0 },
+    { "market_id": 141, "exchange": "binance", "symbol": "HYUNDAI", "rate": 0 },
+    {
+      "market_id": 76,
+      "exchange": "binance",
+      "symbol": "LINEA",
+      "rate": 0.000024
+    },
+    { "market_id": 208, "exchange": "binance", "symbol": "NOK", "rate": 0 },
+    {
+      "market_id": 0,
+      "exchange": "binance",
+      "symbol": "ETH",
+      "rate": 0.00006585
+    },
+    { "market_id": 87, "exchange": "binance", "symbol": "FF", "rate": 0.0001 },
+    { "market_id": 61, "exchange": "binance", "symbol": "GMX", "rate": 0.0001 },
+    { "market_id": 40, "exchange": "binance", "symbol": "S", "rate": 0.0001 },
+    {
+      "market_id": 50,
+      "exchange": "binance",
+      "symbol": "ARB",
+      "rate": -0.00003642
+    },
+    { "market_id": 84, "exchange": "bybit", "symbol": "0G", "rate": 0.0001 },
+    {
+      "market_id": 18,
+      "exchange": "bybit",
+      "symbol": "1000BONK",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 19,
+      "exchange": "bybit",
+      "symbol": "1000FLOKI",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 4,
+      "exchange": "bybit",
+      "symbol": "1000PEPE",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 81,
+      "exchange": "bybit",
+      "symbol": "1000TOSHI",
+      "rate": 0.0001
+    },
+    { "market_id": 88, "exchange": "bybit", "symbol": "2Z", "rate": 0.0001 },
+    { "market_id": 207, "exchange": "bybit", "symbol": "AAOI", "rate": 0 },
+    { "market_id": 113, "exchange": "bybit", "symbol": "AAPL", "rate": 0 },
+    {
+      "market_id": 27,
+      "exchange": "bybit",
+      "symbol": "AAVE",
+      "rate": -0.00015202
+    },
+    { "market_id": 39, "exchange": "bybit", "symbol": "ADA", "rate": 0.0001 },
+    { "market_id": 213, "exchange": "bybit", "symbol": "ADI", "rate": 0 },
+    { "market_id": 65, "exchange": "bybit", "symbol": "AERO", "rate": 0.0001 },
+    { "market_id": 114, "exchange": "bybit", "symbol": "AMZN", "rate": 0 },
+    { "market_id": 193, "exchange": "bybit", "symbol": "ANTHROPIC", "rate": 0 },
+    { "market_id": 86, "exchange": "bybit", "symbol": "APEX", "rate": 0.0001 },
+    { "market_id": 31, "exchange": "bybit", "symbol": "APT", "rate": 0.0001 },
+    {
+      "market_id": 50,
+      "exchange": "bybit",
+      "symbol": "ARB",
+      "rate": -0.00001533
+    },
+    { "market_id": 132, "exchange": "bybit", "symbol": "ARC", "rate": 0.0001 },
+    { "market_id": 206, "exchange": "bybit", "symbol": "ARM", "rate": 0 },
+    { "market_id": 151, "exchange": "bybit", "symbol": "ASML", "rate": 0 },
+    { "market_id": 83, "exchange": "bybit", "symbol": "ASTER", "rate": 0.0001 },
+    {
+      "market_id": 9,
+      "exchange": "bybit",
+      "symbol": "AVAX",
+      "rate": 0.00001837
+    },
+    { "market_id": 210, "exchange": "bybit", "symbol": "AVGO", "rate": 0 },
+    { "market_id": 82, "exchange": "bybit", "symbol": "AVNT", "rate": 0.0001 },
+    {
+      "market_id": 131,
+      "exchange": "bybit",
+      "symbol": "AXS",
+      "rate": 0.00004151
+    },
+    {
+      "market_id": 224,
+      "exchange": "bybit",
+      "symbol": "AXTI",
+      "rate": 0.00000378
+    },
+    {
+      "market_id": 144,
+      "exchange": "bybit",
+      "symbol": "AZTEC",
+      "rate": 0.0001
+    },
+    { "market_id": 177, "exchange": "bybit", "symbol": "BABA", "rate": 0 },
+    { "market_id": 211, "exchange": "bybit", "symbol": "BB", "rate": 0.0001 },
+    { "market_id": 58, "exchange": "bybit", "symbol": "BCH", "rate": 0.0001 },
+    { "market_id": 20, "exchange": "bybit", "symbol": "BERA", "rate": 0.0001 },
+    {
+      "market_id": 196,
+      "exchange": "bybit",
+      "symbol": "BE",
+      "rate": 0.00011274
+    },
+    { "market_id": 171, "exchange": "bybit", "symbol": "BIO", "rate": 0.0001 },
+    { "market_id": 133, "exchange": "bybit", "symbol": "BIRB", "rate": 0.0001 },
+    {
+      "market_id": 123,
+      "exchange": "bybit",
+      "symbol": "BMNR",
+      "rate": 0.00027014
+    },
+    {
+      "market_id": 25,
+      "exchange": "bybit",
+      "symbol": "BNB",
+      "rate": -0.00001592
+    },
+    {
+      "market_id": 185,
+      "exchange": "bybit",
+      "symbol": "BOT",
+      "rate": 0.00105908
+    },
+    {
+      "market_id": 1,
+      "exchange": "bybit",
+      "symbol": "BTC",
+      "rate": -0.00000501
+    },
+    { "market_id": 200, "exchange": "bybit", "symbol": "BYD", "rate": 0 },
+    {
+      "market_id": 212,
+      "exchange": "bybit",
+      "symbol": "CAP",
+      "rate": 0.00098402
+    },
+    {
+      "market_id": 221,
+      "exchange": "bybit",
+      "symbol": "CASHCAT",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 175,
+      "exchange": "bybit",
+      "symbol": "CBRS",
+      "rate": 0.00037072
+    },
+    { "market_id": 101, "exchange": "bybit", "symbol": "CC", "rate": 0.0001 },
+    {
+      "market_id": 163,
+      "exchange": "bybit",
+      "symbol": "CHIP",
+      "rate": 0.0000066
+    },
+    {
+      "market_id": 145,
+      "exchange": "bybit",
+      "symbol": "WTI",
+      "rate": -0.00087599
+    },
+    { "market_id": 109, "exchange": "bybit", "symbol": "COIN", "rate": 0 },
+    { "market_id": 121, "exchange": "bybit", "symbol": "CRCL", "rate": 0 },
+    {
+      "market_id": 73,
+      "exchange": "bybit",
+      "symbol": "CRO",
+      "rate": 0.00004681
+    },
+    { "market_id": 36, "exchange": "bybit", "symbol": "CRV", "rate": 0.0001 },
+    {
+      "market_id": 167,
+      "exchange": "bybit",
+      "symbol": "CRWV",
+      "rate": 0.00037333
+    },
+    { "market_id": 183, "exchange": "bybit", "symbol": "CTR", "rate": 0.0001 },
+    { "market_id": 217, "exchange": "bybit", "symbol": "CXMT", "rate": 0 },
+    { "market_id": 127, "exchange": "bybit", "symbol": "DASH", "rate": 0.0001 },
+    { "market_id": 34, "exchange": "bybit", "symbol": "DATA", "rate": 0.0001 },
+    {
+      "market_id": 187,
+      "exchange": "bybit",
+      "symbol": "DELL",
+      "rate": -0.00008471
+    },
+    { "market_id": 152, "exchange": "bybit", "symbol": "DIA", "rate": 0.0001 },
+    {
+      "market_id": 3,
+      "exchange": "bybit",
+      "symbol": "DOGE",
+      "rate": -0.00001166
+    },
+    { "market_id": 11, "exchange": "bybit", "symbol": "DOT", "rate": 0.0001 },
+    {
+      "market_id": 195,
+      "exchange": "bybit",
+      "symbol": "DRAM",
+      "rate": 0.00012637
+    },
+    { "market_id": 125, "exchange": "bybit", "symbol": "DUSK", "rate": 0.0001 },
+    { "market_id": 62, "exchange": "bybit", "symbol": "DYDX", "rate": 0.0001 },
+    { "market_id": 89, "exchange": "bybit", "symbol": "EDEN", "rate": 0.0001 },
+    { "market_id": 157, "exchange": "bybit", "symbol": "EDGE", "rate": 0.0001 },
+    { "market_id": 49, "exchange": "bybit", "symbol": "EIGEN", "rate": 0.0001 },
+    { "market_id": 29, "exchange": "bybit", "symbol": "ENA", "rate": 0.0001 },
+    {
+      "market_id": 64,
+      "exchange": "bybit",
+      "symbol": "ETHFI",
+      "rate": 0.00004184
+    },
+    {
+      "market_id": 0,
+      "exchange": "bybit",
+      "symbol": "ETH",
+      "rate": -0.00000545
+    },
+    { "market_id": 96, "exchange": "bybit", "symbol": "EURUSD", "rate": 0 },
+    {
+      "market_id": 166,
+      "exchange": "bybit",
+      "symbol": "EWY",
+      "rate": 0.00019591
+    },
+    {
+      "market_id": 21,
+      "exchange": "bybit",
+      "symbol": "FARTCOIN",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 87,
+      "exchange": "bybit",
+      "symbol": "FF",
+      "rate": -0.00007582
+    },
+    {
+      "market_id": 103,
+      "exchange": "bybit",
+      "symbol": "FIL",
+      "rate": -0.00002219
+    },
+    { "market_id": 124, "exchange": "bybit", "symbol": "FOGO", "rate": 0.0001 },
+    {
+      "market_id": 215,
+      "exchange": "bybit",
+      "symbol": "FOLKS",
+      "rate": 0.0001
+    },
+    { "market_id": 97, "exchange": "bybit", "symbol": "GBPUSD", "rate": 0 },
+    { "market_id": 218, "exchange": "bybit", "symbol": "GEV", "rate": 0 },
+    { "market_id": 61, "exchange": "bybit", "symbol": "GMX", "rate": 0.0001 },
+    { "market_id": 116, "exchange": "bybit", "symbol": "GOOGL", "rate": 0 },
+    { "market_id": 12, "exchange": "bybit", "symbol": "GRAM", "rate": 0.0001 },
+    { "market_id": 52, "exchange": "bybit", "symbol": "GRASS", "rate": 0.0001 },
+    { "market_id": 148, "exchange": "bybit", "symbol": "HANMI", "rate": 0 },
+    { "market_id": 59, "exchange": "bybit", "symbol": "HBAR", "rate": 0.0001 },
+    {
+      "market_id": 108,
+      "exchange": "bybit",
+      "symbol": "HOOD",
+      "rate": 0.0003643
+    },
+    {
+      "market_id": 24,
+      "exchange": "bybit",
+      "symbol": "HYPE",
+      "rate": 0.00009157
+    },
+    { "market_id": 141, "exchange": "bybit", "symbol": "HYUNDAI", "rate": 0 },
+    { "market_id": 188, "exchange": "bybit", "symbol": "IBM", "rate": 0 },
+    { "market_id": 102, "exchange": "bybit", "symbol": "ICP", "rate": 0.0001 },
+    {
+      "market_id": 137,
+      "exchange": "bybit",
+      "symbol": "INTC",
+      "rate": 0.00019951
+    },
+    { "market_id": 153, "exchange": "bybit", "symbol": "IWM", "rate": 0 },
+    {
+      "market_id": 134,
+      "exchange": "bybit",
+      "symbol": "JTO",
+      "rate": 0.00007942
+    },
+    {
+      "market_id": 26,
+      "exchange": "bybit",
+      "symbol": "JUP",
+      "rate": -0.00007124
+    },
+    {
+      "market_id": 33,
+      "exchange": "bybit",
+      "symbol": "KAITO",
+      "rate": -0.0002247
+    },
+    { "market_id": 226, "exchange": "bybit", "symbol": "KORU", "rate": 0 },
+    { "market_id": 46, "exchange": "bybit", "symbol": "LDO", "rate": 0.0001 },
+    { "market_id": 76, "exchange": "bybit", "symbol": "LINEA", "rate": 0.0001 },
+    {
+      "market_id": 8,
+      "exchange": "bybit",
+      "symbol": "LINK",
+      "rate": 0.00006033
+    },
+    { "market_id": 178, "exchange": "bybit", "symbol": "LITE", "rate": 0 },
+    { "market_id": 120, "exchange": "bybit", "symbol": "LIT", "rate": 0.0001 },
+    {
+      "market_id": 35,
+      "exchange": "bybit",
+      "symbol": "LTC",
+      "rate": 0.00003487
+    },
+    { "market_id": 155, "exchange": "bybit", "symbol": "MAGS", "rate": 0 },
+    { "market_id": 94, "exchange": "bybit", "symbol": "MEGA", "rate": 0.0001 },
+    { "market_id": 117, "exchange": "bybit", "symbol": "META", "rate": 0 },
+    {
+      "market_id": 95,
+      "exchange": "bybit",
+      "symbol": "MET",
+      "rate": 0.00007608
+    },
+    { "market_id": 199, "exchange": "bybit", "symbol": "MINIMAX", "rate": 0 },
+    { "market_id": 63, "exchange": "bybit", "symbol": "MNT", "rate": 0.0001 },
+    {
+      "market_id": 91,
+      "exchange": "bybit",
+      "symbol": "MON",
+      "rate": -0.00016699
+    },
+    {
+      "market_id": 68,
+      "exchange": "bybit",
+      "symbol": "MORPHO",
+      "rate": 0.0001
+    },
+    { "market_id": 228, "exchange": "bybit", "symbol": "MRNA", "rate": 0 },
+    { "market_id": 174, "exchange": "bybit", "symbol": "MRVL", "rate": 0 },
+    { "market_id": 115, "exchange": "bybit", "symbol": "MSFT", "rate": 0 },
+    { "market_id": 122, "exchange": "bybit", "symbol": "MSTR", "rate": 0 },
+    { "market_id": 164, "exchange": "bybit", "symbol": "MU", "rate": 0 },
+    {
+      "market_id": 189,
+      "exchange": "bybit",
+      "symbol": "NBIS",
+      "rate": 0.00065883
+    },
+    {
+      "market_id": 10,
+      "exchange": "bybit",
+      "symbol": "NEAR",
+      "rate": 0.00005523
+    },
+    { "market_id": 74, "exchange": "bybit", "symbol": "NMR", "rate": 0.0001 },
+    { "market_id": 191, "exchange": "bybit", "symbol": "NOW", "rate": 0 },
+    {
+      "market_id": 110,
+      "exchange": "bybit",
+      "symbol": "NVDA",
+      "rate": 0.00008894
+    },
+    { "market_id": 38, "exchange": "bybit", "symbol": "ONDO", "rate": 0.0001 },
+    { "market_id": 192, "exchange": "bybit", "symbol": "OPENAI", "rate": 0 },
+    { "market_id": 55, "exchange": "bybit", "symbol": "OP", "rate": 0.0001 },
+    { "market_id": 165, "exchange": "bybit", "symbol": "ORCL", "rate": 0 },
+    { "market_id": 4096, "exchange": "bybit", "symbol": "OURA", "rate": 0 },
+    { "market_id": 48, "exchange": "bybit", "symbol": "PAXG", "rate": 0.0001 },
+    {
+      "market_id": 37,
+      "exchange": "bybit",
+      "symbol": "PENDLE",
+      "rate": 0.0001
+    },
+    { "market_id": 47, "exchange": "bybit", "symbol": "PENGU", "rate": 0.0001 },
+    {
+      "market_id": 135,
+      "exchange": "bybit",
+      "symbol": "PIPPIN",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 111,
+      "exchange": "bybit",
+      "symbol": "PLTR",
+      "rate": -0.0002443
+    },
+    { "market_id": 14, "exchange": "bybit", "symbol": "POL", "rate": 0.0001 },
+    { "market_id": 231, "exchange": "bybit", "symbol": "PONS", "rate": 0.0001 },
+    {
+      "market_id": 23,
+      "exchange": "bybit",
+      "symbol": "POPCAT",
+      "rate": 0.0001
+    },
+    { "market_id": 204, "exchange": "bybit", "symbol": "POPMART", "rate": 0 },
+    { "market_id": 4097, "exchange": "bybit", "symbol": "PRL", "rate": 0.0001 },
+    { "market_id": 57, "exchange": "bybit", "symbol": "PROVE", "rate": 0.0001 },
+    { "market_id": 45, "exchange": "bybit", "symbol": "PUMP", "rate": 0.0001 },
+    { "market_id": 78, "exchange": "bybit", "symbol": "PYTH", "rate": 0.0001 },
+    { "market_id": 209, "exchange": "bybit", "symbol": "QCOM", "rate": 0 },
+    {
+      "market_id": 190,
+      "exchange": "bybit",
+      "symbol": "QNT",
+      "rate": 0.00004794
+    },
+    { "market_id": 129, "exchange": "bybit", "symbol": "QQQ", "rate": 0 },
+    {
+      "market_id": 126,
+      "exchange": "bybit",
+      "symbol": "RIVER",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 186,
+      "exchange": "bybit",
+      "symbol": "RKLB",
+      "rate": 0.00009696
+    },
+    { "market_id": 149, "exchange": "bybit", "symbol": "ROBO", "rate": 0.0001 },
+    { "market_id": 140, "exchange": "bybit", "symbol": "SAMSUNG", "rate": 0 },
+    {
+      "market_id": 32,
+      "exchange": "bybit",
+      "symbol": "SEI",
+      "rate": -0.00019476
+    },
+    { "market_id": 230, "exchange": "bybit", "symbol": "SHEIN", "rate": 0 },
+    {
+      "market_id": 17,
+      "exchange": "bybit",
+      "symbol": "1000SHIB",
+      "rate": 0.0001
+    },
+    { "market_id": 143, "exchange": "bybit", "symbol": "SKHYNIX", "rate": 0 },
+    { "market_id": 216, "exchange": "bybit", "symbol": "SKHY", "rate": 0 },
+    { "market_id": 130, "exchange": "bybit", "symbol": "SKR", "rate": 0.0001 },
+    { "market_id": 79, "exchange": "bybit", "symbol": "SKY", "rate": 0.0001 },
+    { "market_id": 202, "exchange": "bybit", "symbol": "SMIC", "rate": 0 },
+    {
+      "market_id": 139,
+      "exchange": "bybit",
+      "symbol": "SNDK",
+      "rate": 0.0004084
+    },
+    {
+      "market_id": 2,
+      "exchange": "bybit",
+      "symbol": "SOL",
+      "rate": 0.00003282
+    },
+    { "market_id": 197, "exchange": "bybit", "symbol": "SOXL", "rate": 0 },
+    { "market_id": 222, "exchange": "bybit", "symbol": "SOXS", "rate": 0 },
+    { "market_id": 169, "exchange": "bybit", "symbol": "SOXX", "rate": 0 },
+    { "market_id": 194, "exchange": "bybit", "symbol": "SPCX", "rate": 0 },
+    { "market_id": 42, "exchange": "bybit", "symbol": "SPX", "rate": 0.0001 },
+    { "market_id": 128, "exchange": "bybit", "symbol": "SPY", "rate": 0 },
+    {
+      "market_id": 118,
+      "exchange": "bybit",
+      "symbol": "STABLE",
+      "rate": 0.0001
+    },
+    { "market_id": 85, "exchange": "bybit", "symbol": "STBL", "rate": 0.0001 },
+    {
+      "market_id": 4095,
+      "exchange": "bybit",
+      "symbol": "STONK",
+      "rate": 0.0001
+    },
+    { "market_id": 104, "exchange": "bybit", "symbol": "STRK", "rate": 0.0001 },
+    {
+      "market_id": 16,
+      "exchange": "bybit",
+      "symbol": "SUI",
+      "rate": 0.00002139
+    },
+    { "market_id": 40, "exchange": "bybit", "symbol": "S", "rate": 0.0001 },
+    { "market_id": 44, "exchange": "bybit", "symbol": "SYRUP", "rate": 0.0001 },
+    { "market_id": 13, "exchange": "bybit", "symbol": "TAO", "rate": 0.0001 },
+    { "market_id": 201, "exchange": "bybit", "symbol": "TENCENT", "rate": 0 },
+    {
+      "market_id": 67,
+      "exchange": "bybit",
+      "symbol": "TIA",
+      "rate": 0.00002006
+    },
+    { "market_id": 15, "exchange": "bybit", "symbol": "TRUMP", "rate": 0.0001 },
+    {
+      "market_id": 43,
+      "exchange": "bybit",
+      "symbol": "TRX",
+      "rate": -0.0003306
+    },
+    { "market_id": 112, "exchange": "bybit", "symbol": "TSLA", "rate": 0 },
+    { "market_id": 168, "exchange": "bybit", "symbol": "TSM", "rate": 0 },
+    { "market_id": 179, "exchange": "bybit", "symbol": "TTWO", "rate": 0 },
+    { "market_id": 220, "exchange": "bybit", "symbol": "UNITREE", "rate": 0 },
+    {
+      "market_id": 30,
+      "exchange": "bybit",
+      "symbol": "UNI",
+      "rate": 0.00008773
+    },
+    { "market_id": 98, "exchange": "bybit", "symbol": "USDJPY", "rate": 0 },
+    {
+      "market_id": 66,
+      "exchange": "bybit",
+      "symbol": "USELESS",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 41,
+      "exchange": "bybit",
+      "symbol": "VIRTUAL",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 69,
+      "exchange": "bybit",
+      "symbol": "VVV",
+      "rate": -0.0002462
+    },
+    {
+      "market_id": 223,
+      "exchange": "bybit",
+      "symbol": "WDC",
+      "rate": 0.00024375
+    },
+    { "market_id": 5, "exchange": "bybit", "symbol": "WIF", "rate": 0.0001 },
+    { "market_id": 6, "exchange": "bybit", "symbol": "WLD", "rate": 0.0001 },
+    { "market_id": 72, "exchange": "bybit", "symbol": "WLFI", "rate": 0.0001 },
+    { "market_id": 93, "exchange": "bybit", "symbol": "XAG", "rate": 0 },
+    { "market_id": 92, "exchange": "bybit", "symbol": "XAU", "rate": 0 },
+    { "market_id": 203, "exchange": "bybit", "symbol": "XIAOMI", "rate": 0 },
+    {
+      "market_id": 119,
+      "exchange": "bybit",
+      "symbol": "XLM",
+      "rate": 0.00005641
+    },
+    { "market_id": 77, "exchange": "bybit", "symbol": "XMR", "rate": 0.0001 },
+    { "market_id": 71, "exchange": "bybit", "symbol": "XPL", "rate": 0.0001 },
+    {
+      "market_id": 7,
+      "exchange": "bybit",
+      "symbol": "XRP",
+      "rate": -0.00003295
+    },
+    { "market_id": 90, "exchange": "bybit", "symbol": "ZEC", "rate": 0.0001 },
+    { "market_id": 205, "exchange": "bybit", "symbol": "ZHIPU", "rate": 0 },
+    { "market_id": 56, "exchange": "bybit", "symbol": "ZK", "rate": 0.0001 },
+    { "market_id": 53, "exchange": "bybit", "symbol": "ZORA", "rate": 0.0001 },
+    { "market_id": 60, "exchange": "bybit", "symbol": "ZRO", "rate": 0.0001 },
+    {
+      "market_id": 1,
+      "exchange": "hyperliquid",
+      "symbol": "BTC",
+      "rate": 0.0000101344
+    },
+    {
+      "market_id": 0,
+      "exchange": "hyperliquid",
+      "symbol": "ETH",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 62,
+      "exchange": "hyperliquid",
+      "symbol": "DYDX",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 2,
+      "exchange": "hyperliquid",
+      "symbol": "SOL",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 9,
+      "exchange": "hyperliquid",
+      "symbol": "AVAX",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 25,
+      "exchange": "hyperliquid",
+      "symbol": "BNB",
+      "rate": 0.0000204632
+    },
+    {
+      "market_id": 55,
+      "exchange": "hyperliquid",
+      "symbol": "OP",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 35,
+      "exchange": "hyperliquid",
+      "symbol": "LTC",
+      "rate": 0.0000492992
+    },
+    {
+      "market_id": 50,
+      "exchange": "hyperliquid",
+      "symbol": "ARB",
+      "rate": -0.0001584232
+    },
+    {
+      "market_id": 3,
+      "exchange": "hyperliquid",
+      "symbol": "DOGE",
+      "rate": 0.0000392696
+    },
+    {
+      "market_id": 16,
+      "exchange": "hyperliquid",
+      "symbol": "SUI",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 4,
+      "exchange": "hyperliquid",
+      "symbol": "1000PEPE",
+      "rate": 0.0000260464
+    },
+    {
+      "market_id": 36,
+      "exchange": "hyperliquid",
+      "symbol": "CRV",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 46,
+      "exchange": "hyperliquid",
+      "symbol": "LDO",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 8,
+      "exchange": "hyperliquid",
+      "symbol": "LINK",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 61,
+      "exchange": "hyperliquid",
+      "symbol": "GMX",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 7,
+      "exchange": "hyperliquid",
+      "symbol": "XRP",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 58,
+      "exchange": "hyperliquid",
+      "symbol": "BCH",
+      "rate": 0.0000890392
+    },
+    {
+      "market_id": 31,
+      "exchange": "hyperliquid",
+      "symbol": "APT",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 27,
+      "exchange": "hyperliquid",
+      "symbol": "AAVE",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 6,
+      "exchange": "hyperliquid",
+      "symbol": "WLD",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 43,
+      "exchange": "hyperliquid",
+      "symbol": "TRX",
+      "rate": -0.000313616
+    },
+    {
+      "market_id": 17,
+      "exchange": "hyperliquid",
+      "symbol": "1000SHIB",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 30,
+      "exchange": "hyperliquid",
+      "symbol": "UNI",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 32,
+      "exchange": "hyperliquid",
+      "symbol": "SEI",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 60,
+      "exchange": "hyperliquid",
+      "symbol": "ZRO",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 11,
+      "exchange": "hyperliquid",
+      "symbol": "DOT",
+      "rate": -0.0001160288
+    },
+    {
+      "market_id": 67,
+      "exchange": "hyperliquid",
+      "symbol": "TIA",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 39,
+      "exchange": "hyperliquid",
+      "symbol": "ADA",
+      "rate": 0.0000022368
+    },
+    {
+      "market_id": 37,
+      "exchange": "hyperliquid",
+      "symbol": "PENDLE",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 10,
+      "exchange": "hyperliquid",
+      "symbol": "NEAR",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 103,
+      "exchange": "hyperliquid",
+      "symbol": "FIL",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 78,
+      "exchange": "hyperliquid",
+      "symbol": "PYTH",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 18,
+      "exchange": "hyperliquid",
+      "symbol": "1000BONK",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 26,
+      "exchange": "hyperliquid",
+      "symbol": "JUP",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 134,
+      "exchange": "hyperliquid",
+      "symbol": "JTO",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 5,
+      "exchange": "hyperliquid",
+      "symbol": "WIF",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 38,
+      "exchange": "hyperliquid",
+      "symbol": "ONDO",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 104,
+      "exchange": "hyperliquid",
+      "symbol": "STRK",
+      "rate": 0.0001
+    },
+    { "market_id": 232, "exchange": "hyperliquid", "symbol": "AI", "rate": 0 },
+    {
+      "market_id": 13,
+      "exchange": "hyperliquid",
+      "symbol": "TAO",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 19,
+      "exchange": "hyperliquid",
+      "symbol": "1000FLOKI",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 64,
+      "exchange": "hyperliquid",
+      "symbol": "ETHFI",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 29,
+      "exchange": "hyperliquid",
+      "symbol": "ENA",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 63,
+      "exchange": "hyperliquid",
+      "symbol": "MNT",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 59,
+      "exchange": "hyperliquid",
+      "symbol": "HBAR",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 23,
+      "exchange": "hyperliquid",
+      "symbol": "POPCAT",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 49,
+      "exchange": "hyperliquid",
+      "symbol": "EIGEN",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 56,
+      "exchange": "hyperliquid",
+      "symbol": "ZK",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 14,
+      "exchange": "hyperliquid",
+      "symbol": "POL",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 52,
+      "exchange": "hyperliquid",
+      "symbol": "GRASS",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 119,
+      "exchange": "hyperliquid",
+      "symbol": "XLM",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 24,
+      "exchange": "hyperliquid",
+      "symbol": "HYPE",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 41,
+      "exchange": "hyperliquid",
+      "symbol": "VIRTUAL",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 47,
+      "exchange": "hyperliquid",
+      "symbol": "PENGU",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 21,
+      "exchange": "hyperliquid",
+      "symbol": "FARTCOIN",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 22,
+      "exchange": "hyperliquid",
+      "symbol": "AI16Z",
+      "rate": 0
+    },
+    {
+      "market_id": 171,
+      "exchange": "hyperliquid",
+      "symbol": "BIO",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 42,
+      "exchange": "hyperliquid",
+      "symbol": "SPX",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 40,
+      "exchange": "hyperliquid",
+      "symbol": "S",
+      "rate": -0.000142216
+    },
+    {
+      "market_id": 68,
+      "exchange": "hyperliquid",
+      "symbol": "MORPHO",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 15,
+      "exchange": "hyperliquid",
+      "symbol": "TRUMP",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 69,
+      "exchange": "hyperliquid",
+      "symbol": "VVV",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 20,
+      "exchange": "hyperliquid",
+      "symbol": "BERA",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 33,
+      "exchange": "hyperliquid",
+      "symbol": "KAITO",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 48,
+      "exchange": "hyperliquid",
+      "symbol": "PAXG",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 53,
+      "exchange": "hyperliquid",
+      "symbol": "ZORA",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 54,
+      "exchange": "hyperliquid",
+      "symbol": "LAUNCHCOIN",
+      "rate": 0
+    },
+    {
+      "market_id": 44,
+      "exchange": "hyperliquid",
+      "symbol": "SYRUP",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 45,
+      "exchange": "hyperliquid",
+      "symbol": "PUMP",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 57,
+      "exchange": "hyperliquid",
+      "symbol": "PROVE",
+      "rate": 0.0001
+    },
+    { "market_id": 70, "exchange": "hyperliquid", "symbol": "YZY", "rate": 0 },
+    {
+      "market_id": 71,
+      "exchange": "hyperliquid",
+      "symbol": "XPL",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 72,
+      "exchange": "hyperliquid",
+      "symbol": "WLFI",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 76,
+      "exchange": "hyperliquid",
+      "symbol": "LINEA",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 79,
+      "exchange": "hyperliquid",
+      "symbol": "SKY",
+      "rate": 0.0000374664
+    },
+    {
+      "market_id": 83,
+      "exchange": "hyperliquid",
+      "symbol": "ASTER",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 82,
+      "exchange": "hyperliquid",
+      "symbol": "AVNT",
+      "rate": -0.000087224
+    },
+    {
+      "market_id": 85,
+      "exchange": "hyperliquid",
+      "symbol": "STBL",
+      "rate": 0.0003372344
+    },
+    {
+      "market_id": 84,
+      "exchange": "hyperliquid",
+      "symbol": "0G",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 86,
+      "exchange": "hyperliquid",
+      "symbol": "APEX",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 88,
+      "exchange": "hyperliquid",
+      "symbol": "2Z",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 90,
+      "exchange": "hyperliquid",
+      "symbol": "ZEC",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 91,
+      "exchange": "hyperliquid",
+      "symbol": "MON",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 95,
+      "exchange": "hyperliquid",
+      "symbol": "MET",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 94,
+      "exchange": "hyperliquid",
+      "symbol": "MEGA",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 101,
+      "exchange": "hyperliquid",
+      "symbol": "CC",
+      "rate": 0.0002100544
+    },
+    {
+      "market_id": 102,
+      "exchange": "hyperliquid",
+      "symbol": "ICP",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 65,
+      "exchange": "hyperliquid",
+      "symbol": "AERO",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 118,
+      "exchange": "hyperliquid",
+      "symbol": "STABLE",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 124,
+      "exchange": "hyperliquid",
+      "symbol": "FOGO",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 120,
+      "exchange": "hyperliquid",
+      "symbol": "LIT",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 77,
+      "exchange": "hyperliquid",
+      "symbol": "XMR",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 131,
+      "exchange": "hyperliquid",
+      "symbol": "AXS",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 127,
+      "exchange": "hyperliquid",
+      "symbol": "DASH",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 130,
+      "exchange": "hyperliquid",
+      "symbol": "SKR",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 144,
+      "exchange": "hyperliquid",
+      "symbol": "AZTEC",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 163,
+      "exchange": "hyperliquid",
+      "symbol": "CHIP",
+      "rate": -0.0000781984
+    },
+    {
+      "market_id": 12,
+      "exchange": "hyperliquid",
+      "symbol": "GRAM",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 221,
+      "exchange": "hyperliquid",
+      "symbol": "CASHCAT",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 231,
+      "exchange": "hyperliquid",
+      "symbol": "PONS",
+      "rate": 0.0001
+    },
+    {
+      "market_id": 66,
+      "exchange": "hyperliquid",
+      "symbol": "USELESS",
+      "rate": 0.0001314304
+    },
+    {
+      "market_id": 112,
+      "exchange": "hyperliquid",
+      "symbol": "TSLA",
+      "rate": 0.00005
+    },
+    {
+      "market_id": 110,
+      "exchange": "hyperliquid",
+      "symbol": "NVDA",
+      "rate": 0.0000163656
+    },
+    {
+      "market_id": 92,
+      "exchange": "hyperliquid",
+      "symbol": "XAU",
+      "rate": -0.0000068104
+    },
+    {
+      "market_id": 108,
+      "exchange": "hyperliquid",
+      "symbol": "HOOD",
+      "rate": 0.0002522904
+    },
+    {
+      "market_id": 137,
+      "exchange": "hyperliquid",
+      "symbol": "INTC",
+      "rate": 0.00005
+    },
+    {
+      "market_id": 111,
+      "exchange": "hyperliquid",
+      "symbol": "PLTR",
+      "rate": -0.0000820056
+    },
+    {
+      "market_id": 109,
+      "exchange": "hyperliquid",
+      "symbol": "COIN",
+      "rate": 0.00005
+    },
+    {
+      "market_id": 117,
+      "exchange": "hyperliquid",
+      "symbol": "META",
+      "rate": 0.00005
+    },
+    {
+      "market_id": 113,
+      "exchange": "hyperliquid",
+      "symbol": "AAPL",
+      "rate": 0.00005
+    },
+    {
+      "market_id": 115,
+      "exchange": "hyperliquid",
+      "symbol": "MSFT",
+      "rate": 0.00005
+    },
+    {
+      "market_id": 116,
+      "exchange": "hyperliquid",
+      "symbol": "GOOGL",
+      "rate": 0.00005
+    },
+    {
+      "market_id": 114,
+      "exchange": "hyperliquid",
+      "symbol": "AMZN",
+      "rate": 0.00005
+    },
+    {
+      "market_id": 138,
+      "exchange": "hyperliquid",
+      "symbol": "AMD",
+      "rate": 0.00005
+    },
+    {
+      "market_id": 139,
+      "exchange": "hyperliquid",
+      "symbol": "SNDK",
+      "rate": 0.00005
+    },
+    {
+      "market_id": 122,
+      "exchange": "hyperliquid",
+      "symbol": "MSTR",
+      "rate": 0.000103136
+    },
+    {
+      "market_id": 121,
+      "exchange": "hyperliquid",
+      "symbol": "CRCL",
+      "rate": 0.0000709752
+    },
+    {
+      "market_id": 143,
+      "exchange": "hyperliquid",
+      "symbol": "SKHYNIX",
+      "rate": 0.0002541936
+    },
+    {
+      "market_id": 168,
+      "exchange": "hyperliquid",
+      "symbol": "TSM",
+      "rate": 0.00005
+    },
+    {
+      "market_id": 98,
+      "exchange": "hyperliquid",
+      "symbol": "USDJPY",
+      "rate": 0
+    },
+    {
+      "market_id": 96,
+      "exchange": "hyperliquid",
+      "symbol": "EURUSD",
+      "rate": 0
+    },
+    {
+      "market_id": 93,
+      "exchange": "hyperliquid",
+      "symbol": "XAG",
+      "rate": 0.0000250344
+    },
+    {
+      "market_id": 145,
+      "exchange": "hyperliquid",
+      "symbol": "WTI",
+      "rate": -0.0003648528
+    },
+    {
+      "market_id": 136,
+      "exchange": "hyperliquid",
+      "symbol": "XCU",
+      "rate": 0.0000388976
+    },
+    {
+      "market_id": 158,
+      "exchange": "hyperliquid",
+      "symbol": "NATGAS",
+      "rate": 0.0004359944
+    },
+    { "market_id": 150, "exchange": "hyperliquid", "symbol": "URA", "rate": 0 },
+    {
+      "market_id": 140,
+      "exchange": "hyperliquid",
+      "symbol": "SAMSUNG",
+      "rate": 0.00005
+    },
+    {
+      "market_id": 147,
+      "exchange": "hyperliquid",
+      "symbol": "XPT",
+      "rate": -0.0000260208
+    },
+    {
+      "market_id": 146,
+      "exchange": "hyperliquid",
+      "symbol": "XPD",
+      "rate": 0.00005
+    },
+    {
+      "market_id": 142,
+      "exchange": "hyperliquid",
+      "symbol": "KRCOMP",
+      "rate": 0.00005
+    },
+    {
+      "market_id": 141,
+      "exchange": "hyperliquid",
+      "symbol": "HYUNDAI",
+      "rate": -0.0001890968
+    },
+    {
+      "market_id": 159,
+      "exchange": "hyperliquid",
+      "symbol": "BRENTOIL",
+      "rate": -0.0004680168
+    },
+    {
+      "market_id": 128,
+      "exchange": "hyperliquid",
+      "symbol": "SPY",
+      "rate": -0.0000014688
+    },
+    {
+      "market_id": 113,
+      "exchange": "lighter",
+      "symbol": "AAPL",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 176,
+      "exchange": "lighter",
+      "symbol": "GME",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 201,
+      "exchange": "lighter",
+      "symbol": "TENCENT",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 5,
+      "exchange": "lighter",
+      "symbol": "WIF",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 177,
+      "exchange": "lighter",
+      "symbol": "BABA",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 118,
+      "exchange": "lighter",
+      "symbol": "STABLE",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 64,
+      "exchange": "lighter",
+      "symbol": "ETHFI",
+      "rate": 0.00009599999999999999
+    },
+    { "market_id": 100, "exchange": "lighter", "symbol": "USDCAD", "rate": 0 },
+    {
+      "market_id": 92,
+      "exchange": "lighter",
+      "symbol": "XAU",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 77,
+      "exchange": "lighter",
+      "symbol": "XMR",
+      "rate": -0.000128
+    },
+    {
+      "market_id": 66,
+      "exchange": "lighter",
+      "symbol": "USELESS",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 86,
+      "exchange": "lighter",
+      "symbol": "APEX",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 85,
+      "exchange": "lighter",
+      "symbol": "STBL",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 184,
+      "exchange": "lighter",
+      "symbol": "RAIL",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 62,
+      "exchange": "lighter",
+      "symbol": "DYDX",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 19,
+      "exchange": "lighter",
+      "symbol": "1000FLOKI",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 200,
+      "exchange": "lighter",
+      "symbol": "BYD",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 26,
+      "exchange": "lighter",
+      "symbol": "JUP",
+      "rate": -0.00012
+    },
+    {
+      "market_id": 193,
+      "exchange": "lighter",
+      "symbol": "ANTHROPIC",
+      "rate": 0
+    },
+    {
+      "market_id": 151,
+      "exchange": "lighter",
+      "symbol": "ASML",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 190,
+      "exchange": "lighter",
+      "symbol": "QNT",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 110,
+      "exchange": "lighter",
+      "symbol": "NVDA",
+      "rate": 0.000032
+    },
+    { "market_id": 98, "exchange": "lighter", "symbol": "USDJPY", "rate": 0 },
+    {
+      "market_id": 47,
+      "exchange": "lighter",
+      "symbol": "PENGU",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 163,
+      "exchange": "lighter",
+      "symbol": "CHIP",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 153,
+      "exchange": "lighter",
+      "symbol": "IWM",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 15,
+      "exchange": "lighter",
+      "symbol": "TRUMP",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 111,
+      "exchange": "lighter",
+      "symbol": "PLTR",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 129,
+      "exchange": "lighter",
+      "symbol": "QQQ",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 179,
+      "exchange": "lighter",
+      "symbol": "TTWO",
+      "rate": 0.000392
+    },
+    {
+      "market_id": 214,
+      "exchange": "lighter",
+      "symbol": "WEN",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 208,
+      "exchange": "lighter",
+      "symbol": "NOK",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 219,
+      "exchange": "lighter",
+      "symbol": "ANSEM",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 41,
+      "exchange": "lighter",
+      "symbol": "VIRTUAL",
+      "rate": -0.000112
+    },
+    {
+      "market_id": 121,
+      "exchange": "lighter",
+      "symbol": "CRCL",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 57,
+      "exchange": "lighter",
+      "symbol": "PROVE",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 196,
+      "exchange": "lighter",
+      "symbol": "BE",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 45,
+      "exchange": "lighter",
+      "symbol": "PUMP",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 114,
+      "exchange": "lighter",
+      "symbol": "AMZN",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 20,
+      "exchange": "lighter",
+      "symbol": "BERA",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 198,
+      "exchange": "lighter",
+      "symbol": "USDHKD",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 230,
+      "exchange": "lighter",
+      "symbol": "SHEIN",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 229,
+      "exchange": "lighter",
+      "symbol": "STABLECOINX",
+      "rate": -0.000152
+    },
+    {
+      "market_id": 10,
+      "exchange": "lighter",
+      "symbol": "NEAR",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 126,
+      "exchange": "lighter",
+      "symbol": "RIVER",
+      "rate": -0.000992
+    },
+    {
+      "market_id": 174,
+      "exchange": "lighter",
+      "symbol": "MRVL",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 3,
+      "exchange": "lighter",
+      "symbol": "DOGE",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 224,
+      "exchange": "lighter",
+      "symbol": "AXTI",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 171,
+      "exchange": "lighter",
+      "symbol": "BIO",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 48,
+      "exchange": "lighter",
+      "symbol": "PAXG",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 168,
+      "exchange": "lighter",
+      "symbol": "TSM",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 38,
+      "exchange": "lighter",
+      "symbol": "ONDO",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 91,
+      "exchange": "lighter",
+      "symbol": "MON",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 44,
+      "exchange": "lighter",
+      "symbol": "SYRUP",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 55,
+      "exchange": "lighter",
+      "symbol": "OP",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 112,
+      "exchange": "lighter",
+      "symbol": "TSLA",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 165,
+      "exchange": "lighter",
+      "symbol": "ORCL",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 33,
+      "exchange": "lighter",
+      "symbol": "KAITO",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 221,
+      "exchange": "lighter",
+      "symbol": "CASHCAT",
+      "rate": -0.0002
+    },
+    {
+      "market_id": 2,
+      "exchange": "lighter",
+      "symbol": "SOL",
+      "rate": -0.000272
+    },
+    {
+      "market_id": 146,
+      "exchange": "lighter",
+      "symbol": "XPD",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 103,
+      "exchange": "lighter",
+      "symbol": "FIL",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 139,
+      "exchange": "lighter",
+      "symbol": "SNDK",
+      "rate": 0.000336
+    },
+    {
+      "market_id": 4097,
+      "exchange": "lighter",
+      "symbol": "PRL",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 102,
+      "exchange": "lighter",
+      "symbol": "ICP",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 131,
+      "exchange": "lighter",
+      "symbol": "AXS",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 116,
+      "exchange": "lighter",
+      "symbol": "GOOGL",
+      "rate": 0.000136
+    },
+    {
+      "market_id": 202,
+      "exchange": "lighter",
+      "symbol": "SMIC",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 157,
+      "exchange": "lighter",
+      "symbol": "EDGE",
+      "rate": 0.00009599999999999999
+    },
+    { "market_id": 97, "exchange": "lighter", "symbol": "GBPUSD", "rate": 0 },
+    {
+      "market_id": 180,
+      "exchange": "lighter",
+      "symbol": "US500",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 228,
+      "exchange": "lighter",
+      "symbol": "MRNA",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 4098,
+      "exchange": "lighter",
+      "symbol": "VARIATIONAL",
+      "rate": 0
+    },
+    {
+      "market_id": 7,
+      "exchange": "lighter",
+      "symbol": "XRP",
+      "rate": -0.00016
+    },
+    {
+      "market_id": 67,
+      "exchange": "lighter",
+      "symbol": "TIA",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 53,
+      "exchange": "lighter",
+      "symbol": "ZORA",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 117,
+      "exchange": "lighter",
+      "symbol": "META",
+      "rate": 0.000128
+    },
+    {
+      "market_id": 4,
+      "exchange": "lighter",
+      "symbol": "1000PEPE",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 162,
+      "exchange": "lighter",
+      "symbol": "SAMSUNGUSD",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 24,
+      "exchange": "lighter",
+      "symbol": "HYPE",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 31,
+      "exchange": "lighter",
+      "symbol": "APT",
+      "rate": -0.000023999999999999997
+    },
+    {
+      "market_id": 94,
+      "exchange": "lighter",
+      "symbol": "MEGA",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 21,
+      "exchange": "lighter",
+      "symbol": "FARTCOIN",
+      "rate": 0.00009599999999999999
+    },
+    { "market_id": 99, "exchange": "lighter", "symbol": "USDCHF", "rate": 0 },
+    {
+      "market_id": 147,
+      "exchange": "lighter",
+      "symbol": "XPT",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 69,
+      "exchange": "lighter",
+      "symbol": "VVV",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 145,
+      "exchange": "lighter",
+      "symbol": "WTI",
+      "rate": -0.00021600000000000002
+    },
+    {
+      "market_id": 72,
+      "exchange": "lighter",
+      "symbol": "WLFI",
+      "rate": 0.00009599999999999999
+    },
+    { "market_id": 105, "exchange": "lighter", "symbol": "USDKRW", "rate": 0 },
+    {
+      "market_id": 218,
+      "exchange": "lighter",
+      "symbol": "GEV",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 161,
+      "exchange": "lighter",
+      "symbol": "SKHYNIXUSD",
+      "rate": 0.000104
+    },
+    {
+      "market_id": 183,
+      "exchange": "lighter",
+      "symbol": "CTR",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 82,
+      "exchange": "lighter",
+      "symbol": "AVNT",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 199,
+      "exchange": "lighter",
+      "symbol": "MINIMAX",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 63,
+      "exchange": "lighter",
+      "symbol": "MNT",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 122,
+      "exchange": "lighter",
+      "symbol": "MSTR",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 191,
+      "exchange": "lighter",
+      "symbol": "NOW",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 42,
+      "exchange": "lighter",
+      "symbol": "SPX",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 4095,
+      "exchange": "lighter",
+      "symbol": "STONK",
+      "rate": 0.0014080000000000002
+    },
+    {
+      "market_id": 49,
+      "exchange": "lighter",
+      "symbol": "EIGEN",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 210,
+      "exchange": "lighter",
+      "symbol": "AVGO",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 132,
+      "exchange": "lighter",
+      "symbol": "ARC",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 187,
+      "exchange": "lighter",
+      "symbol": "DELL",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 68,
+      "exchange": "lighter",
+      "symbol": "MORPHO",
+      "rate": 0.00009599999999999999
+    },
+    { "market_id": 156, "exchange": "lighter", "symbol": "STRC", "rate": 0 },
+    {
+      "market_id": 197,
+      "exchange": "lighter",
+      "symbol": "SOXL",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 90,
+      "exchange": "lighter",
+      "symbol": "ZEC",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 29,
+      "exchange": "lighter",
+      "symbol": "ENA",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 209,
+      "exchange": "lighter",
+      "symbol": "QCOM",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 207,
+      "exchange": "lighter",
+      "symbol": "AAOI",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 182,
+      "exchange": "lighter",
+      "symbol": "H100",
+      "rate": 0.000032
+    },
+    { "market_id": 96, "exchange": "lighter", "symbol": "EURUSD", "rate": 0 },
+    {
+      "market_id": 39,
+      "exchange": "lighter",
+      "symbol": "ADA",
+      "rate": -0.00004
+    },
+    {
+      "market_id": 130,
+      "exchange": "lighter",
+      "symbol": "SKR",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 25,
+      "exchange": "lighter",
+      "symbol": "BNB",
+      "rate": 0.00004
+    },
+    {
+      "market_id": 9,
+      "exchange": "lighter",
+      "symbol": "AVAX",
+      "rate": -0.00008
+    },
+    {
+      "market_id": 223,
+      "exchange": "lighter",
+      "symbol": "WDC",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 84,
+      "exchange": "lighter",
+      "symbol": "0G",
+      "rate": 0.000064
+    },
+    {
+      "market_id": 109,
+      "exchange": "lighter",
+      "symbol": "COIN",
+      "rate": 0.00008
+    },
+    {
+      "market_id": 73,
+      "exchange": "lighter",
+      "symbol": "CRO",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 226,
+      "exchange": "lighter",
+      "symbol": "KORU",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 185,
+      "exchange": "lighter",
+      "symbol": "BOT",
+      "rate": 0.002032
+    },
+    {
+      "market_id": 40,
+      "exchange": "lighter",
+      "symbol": "S",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 58,
+      "exchange": "lighter",
+      "symbol": "BCH",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 104,
+      "exchange": "lighter",
+      "symbol": "STRK",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 178,
+      "exchange": "lighter",
+      "symbol": "LITE",
+      "rate": 0.000448
+    },
+    {
+      "market_id": 56,
+      "exchange": "lighter",
+      "symbol": "ZK",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 71,
+      "exchange": "lighter",
+      "symbol": "XPL",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 134,
+      "exchange": "lighter",
+      "symbol": "JTO",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 211,
+      "exchange": "lighter",
+      "symbol": "BB",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 225,
+      "exchange": "lighter",
+      "symbol": "KIOXIA",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 120,
+      "exchange": "lighter",
+      "symbol": "LIT",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 123,
+      "exchange": "lighter",
+      "symbol": "BMNR",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 6,
+      "exchange": "lighter",
+      "symbol": "WLD",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 167,
+      "exchange": "lighter",
+      "symbol": "CRWV",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 138,
+      "exchange": "lighter",
+      "symbol": "AMD",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 127,
+      "exchange": "lighter",
+      "symbol": "DASH",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 189,
+      "exchange": "lighter",
+      "symbol": "NBIS",
+      "rate": 0.00043200000000000004
+    },
+    {
+      "market_id": 172,
+      "exchange": "lighter",
+      "symbol": "1000NOT",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 231,
+      "exchange": "lighter",
+      "symbol": "PONS",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 215,
+      "exchange": "lighter",
+      "symbol": "FOLKS",
+      "rate": 0.00028000000000000003
+    },
+    {
+      "market_id": 50,
+      "exchange": "lighter",
+      "symbol": "ARB",
+      "rate": -0.000328
+    },
+    {
+      "market_id": 192,
+      "exchange": "lighter",
+      "symbol": "OPENAI",
+      "rate": 0.000008
+    },
+    {
+      "market_id": 175,
+      "exchange": "lighter",
+      "symbol": "CBRS",
+      "rate": 0.00038399999999999996
+    },
+    {
+      "market_id": 216,
+      "exchange": "lighter",
+      "symbol": "SKHY",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 35,
+      "exchange": "lighter",
+      "symbol": "LTC",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 205,
+      "exchange": "lighter",
+      "symbol": "ZHIPU",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 149,
+      "exchange": "lighter",
+      "symbol": "ROBO",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 61,
+      "exchange": "lighter",
+      "symbol": "GMX",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 232,
+      "exchange": "lighter",
+      "symbol": "AI",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 95,
+      "exchange": "lighter",
+      "symbol": "MET",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 128,
+      "exchange": "lighter",
+      "symbol": "SPY",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 18,
+      "exchange": "lighter",
+      "symbol": "1000BONK",
+      "rate": 0.00009599999999999999
+    },
+    { "market_id": 4096, "exchange": "lighter", "symbol": "OURA", "rate": 0 },
+    {
+      "market_id": 137,
+      "exchange": "lighter",
+      "symbol": "INTC",
+      "rate": 0.00004
+    },
+    {
+      "market_id": 160,
+      "exchange": "lighter",
+      "symbol": "HYUNDAIUSD",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 60,
+      "exchange": "lighter",
+      "symbol": "ZRO",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 79,
+      "exchange": "lighter",
+      "symbol": "SKY",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 87,
+      "exchange": "lighter",
+      "symbol": "FF",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 195,
+      "exchange": "lighter",
+      "symbol": "DRAM",
+      "rate": 0.000264
+    },
+    {
+      "market_id": 4099,
+      "exchange": "lighter",
+      "symbol": "DRV",
+      "rate": 0.000784
+    },
+    {
+      "market_id": 188,
+      "exchange": "lighter",
+      "symbol": "IBM",
+      "rate": 0.000624
+    },
+    {
+      "market_id": 13,
+      "exchange": "lighter",
+      "symbol": "TAO",
+      "rate": 0.000047999999999999994
+    },
+    {
+      "market_id": 186,
+      "exchange": "lighter",
+      "symbol": "RKLB",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 206,
+      "exchange": "lighter",
+      "symbol": "ARM",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 194,
+      "exchange": "lighter",
+      "symbol": "SPCX",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 164,
+      "exchange": "lighter",
+      "symbol": "MU",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 158,
+      "exchange": "lighter",
+      "symbol": "NATGAS",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 12,
+      "exchange": "lighter",
+      "symbol": "GRAM",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 166,
+      "exchange": "lighter",
+      "symbol": "EWY",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 59,
+      "exchange": "lighter",
+      "symbol": "HBAR",
+      "rate": 0.000023999999999999997
+    },
+    {
+      "market_id": 88,
+      "exchange": "lighter",
+      "symbol": "2Z",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 203,
+      "exchange": "lighter",
+      "symbol": "XIAOMI",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 8,
+      "exchange": "lighter",
+      "symbol": "LINK",
+      "rate": -0.000023999999999999997
+    },
+    { "market_id": 106, "exchange": "lighter", "symbol": "AUDUSD", "rate": 0 },
+    {
+      "market_id": 30,
+      "exchange": "lighter",
+      "symbol": "UNI",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 108,
+      "exchange": "lighter",
+      "symbol": "HOOD",
+      "rate": 0.000248
+    },
+    {
+      "market_id": 115,
+      "exchange": "lighter",
+      "symbol": "MSFT",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 65,
+      "exchange": "lighter",
+      "symbol": "AERO",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 11,
+      "exchange": "lighter",
+      "symbol": "DOT",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 0,
+      "exchange": "lighter",
+      "symbol": "ETH",
+      "rate": -0.000032
+    },
+    {
+      "market_id": 74,
+      "exchange": "lighter",
+      "symbol": "NMR",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 204,
+      "exchange": "lighter",
+      "symbol": "POPMART",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 46,
+      "exchange": "lighter",
+      "symbol": "LDO",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 36,
+      "exchange": "lighter",
+      "symbol": "CRV",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 27,
+      "exchange": "lighter",
+      "symbol": "AAVE",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 136,
+      "exchange": "lighter",
+      "symbol": "XCU",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 93,
+      "exchange": "lighter",
+      "symbol": "XAG",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 37,
+      "exchange": "lighter",
+      "symbol": "PENDLE",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 233,
+      "exchange": "lighter",
+      "symbol": "RAY",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 78,
+      "exchange": "lighter",
+      "symbol": "PYTH",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 212,
+      "exchange": "lighter",
+      "symbol": "CAP",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 217,
+      "exchange": "lighter",
+      "symbol": "CXMT",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 101,
+      "exchange": "lighter",
+      "symbol": "CC",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 119,
+      "exchange": "lighter",
+      "symbol": "XLM",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 1,
+      "exchange": "lighter",
+      "symbol": "BTC",
+      "rate": -0.00009599999999999999
+    },
+    { "market_id": 227, "exchange": "lighter", "symbol": "US10Y", "rate": 0 },
+    {
+      "market_id": 43,
+      "exchange": "lighter",
+      "symbol": "TRX",
+      "rate": -0.0002
+    },
+    {
+      "market_id": 76,
+      "exchange": "lighter",
+      "symbol": "LINEA",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 181,
+      "exchange": "lighter",
+      "symbol": "US100",
+      "rate": 0.000032
+    },
+    { "market_id": 107, "exchange": "lighter", "symbol": "NZDUSD", "rate": 0 },
+    {
+      "market_id": 220,
+      "exchange": "lighter",
+      "symbol": "UNITREE",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 52,
+      "exchange": "lighter",
+      "symbol": "GRASS",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 16,
+      "exchange": "lighter",
+      "symbol": "SUI",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 222,
+      "exchange": "lighter",
+      "symbol": "SOXS",
+      "rate": 0.000032
+    },
+    {
+      "market_id": 159,
+      "exchange": "lighter",
+      "symbol": "BRENTOIL",
+      "rate": -0.002088
+    },
+    {
+      "market_id": 83,
+      "exchange": "lighter",
+      "symbol": "ASTER",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 17,
+      "exchange": "lighter",
+      "symbol": "1000SHIB",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 23,
+      "exchange": "lighter",
+      "symbol": "POPCAT",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 32,
+      "exchange": "lighter",
+      "symbol": "SEI",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 144,
+      "exchange": "lighter",
+      "symbol": "AZTEC",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 14,
+      "exchange": "lighter",
+      "symbol": "POL",
+      "rate": 0.00009599999999999999
+    },
+    {
+      "market_id": 34,
+      "exchange": "lighter",
+      "symbol": "DATA",
+      "rate": 0.00009599999999999999
+    }
+  ]
+}

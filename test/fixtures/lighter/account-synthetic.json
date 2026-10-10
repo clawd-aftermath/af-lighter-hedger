@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "total": 1,
+  "accounts": [
+    {
+      "code": 200,
+      "account_type": 0,
+      "account_trading_mode": 0,
+      "index": 281474976710600,
+      "account_index": 281474976710600,
+      "l1_address": "0x0000000000000000000000000000000000000000",
+      "available_balance": "1234.567890",
+      "collateral": "1500.000000",
+      "positions": [
+        {
+          "market_id": 1,
+          "symbol": "BTC",
+          "initial_margin_fraction": "0.1",
+          "open_order_count": 0,
+          "pending_order_count": 0,
+          "position_tied_order_count": 0,
+          "sign": -1,
+          "position": "0.01234",
+          "avg_entry_price": "82000.0",
+          "position_value": "1011.880000",
+          "unrealized_pnl": "-5.000000",
+          "realized_pnl": "0.000000",
+          "liquidation_price": "95000.0",
+          "total_funding_paid_out": "-0.012300",
+          "margin_mode": 0,
+          "allocated_margin": "0.000000",
+          "total_discount": "0.000000",
+          "margin_set_flag": 0
+        }
+      ],
+      "assets": [
+        {
+          "symbol": "USDC",
+          "asset_id": 3,
+          "balance": "1500.000000",
+          "locked_balance": "0.000000",
+          "margin_balance": "1500.000000",
+          "margin_mode": 0,
+          "multiplier": "1.000000"
+        }
+      ],
+      "total_asset_value": "1500.000000",
+      "cross_asset_value": "1500.000000",
+      "cross_initial_margin_requirement": "101.188000",
+      "cross_maintenance_margin_requirement": "50.594000",
+      "transaction_time": 1791584000000000
+    }
+  ],
+  "next_cursor": ""
+}

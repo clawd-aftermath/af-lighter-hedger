@@ -1,0 +1,447 @@
+{
+  "transactionDataBase64": "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",
+  "decoded": {
+    "version": 2,
+    "sender": "0x00000000000000000000000000000000000000000000000000000000000a11ce",
+    "expiration": {
+      "ValidDuring": {
+        "minEpoch": "1275",
+        "maxEpoch": "1276",
+        "minTimestamp": null,
+        "maxTimestamp": null,
+        "chain": "4btiuiMPvEENsttpZC7CZ53DruC3MAgfznDbASZ7DR6S",
+        "nonce": 964705605
+      },
+      "$kind": "ValidDuring"
+    },
+    "gasData": {
+      "budget": "10000000",
+      "price": "100",
+      "owner": "0x00000000000000000000000000000000000000000000000000000000000a11ce",
+      "payment": [
+        {
+          "objectId": "0x00000000000000000000000000000000000000000000000000000000000a9000",
+          "version": "1",
+          "digest": "11111111111111111111111111111111"
+        }
+      ]
+    },
+    "inputs": [
+      {
+        "Object": {
+          "SharedObject": {
+            "objectId": "0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1",
+            "initialSharedVersion": "964249069",
+            "mutable": true
+          },
+          "$kind": "SharedObject"
+        },
+        "$kind": "Object"
+      },
+      {
+        "Object": {
+          "SharedObject": {
+            "objectId": "0x00000000000000000000000000000000000000000000000000000000000a0001",
+            "initialSharedVersion": "1035429153",
+            "mutable": false
+          },
+          "$kind": "SharedObject"
+        },
+        "$kind": "Object"
+      },
+      {
+        "Object": {
+          "SharedObject": {
+            "objectId": "0x00000000000000000000000000000000000000000000000000000000000a0002",
+            "initialSharedVersion": "1035429153",
+            "mutable": true
+          },
+          "$kind": "SharedObject"
+        },
+        "$kind": "Object"
+      },
+      {
+        "Pure": {
+          "bytes": "f8bcAAAAAADA72V9HEsAAA=="
+        },
+        "$kind": "Pure"
+      },
+      {
+        "Pure": {
+          "bytes": "BMbcAAAAAAD/GAwT8LT//w=="
+        },
+        "$kind": "Pure"
+      },
+      {
+        "Object": {
+          "SharedObject": {
+            "objectId": "0x00000000000000000000000000000000000000000000000000000000000a0005",
+            "initialSharedVersion": "964249067",
+            "mutable": false
+          },
+          "$kind": "SharedObject"
+        },
+        "$kind": "Object"
+      },
+      {
+        "Object": {
+          "SharedObject": {
+            "objectId": "0x00000000000000000000000000000000000000000000000000000000000a0006",
+            "initialSharedVersion": "964249068",
+            "mutable": false
+          },
+          "$kind": "SharedObject"
+        },
+        "$kind": "Object"
+      },
+      {
+        "Object": {
+          "SharedObject": {
+            "objectId": "0x00000000000000000000000000000000000000000000000000000000000a0007",
+            "initialSharedVersion": "1",
+            "mutable": false
+          },
+          "$kind": "SharedObject"
+        },
+        "$kind": "Object"
+      },
+      {
+        "Pure": {
+          "bytes": "AQ=="
+        },
+        "$kind": "Pure"
+      },
+      {
+        "Pure": {
+          "bytes": "zJCKAAAAAAA="
+        },
+        "$kind": "Pure"
+      },
+      {
+        "Pure": {
+          "bytes": "gHtfaR1LAAA="
+        },
+        "$kind": "Pure"
+      },
+      {
+        "Pure": {
+          "bytes": "AgAAAAAAAAA="
+        },
+        "$kind": "Pure"
+      },
+      {
+        "Pure": {
+          "bytes": "AX0/AAALAAAB"
+        },
+        "$kind": "Pure"
+      },
+      {
+        "Pure": {
+          "bytes": "AA=="
+        },
+        "$kind": "Pure"
+      },
+      {
+        "Pure": {
+          "bytes": "ARbZ7iKhAQAA"
+        },
+        "$kind": "Pure"
+      },
+      {
+        "Pure": {
+          "bytes": "OyidAAAAAAA="
+        },
+        "$kind": "Pure"
+      },
+      {
+        "Pure": {
+          "bytes": "QPD88xBLAAA="
+        },
+        "$kind": "Pure"
+      },
+      {
+        "Pure": {
+          "bytes": "AX4/AAALAAAB"
+        },
+        "$kind": "Pure"
+      }
+    ],
+    "commands": [
+      {
+        "MakeMoveVec": {
+          "type": "u128",
+          "elements": [
+            {
+              "Input": 3,
+              "$kind": "Input"
+            },
+            {
+              "Input": 4,
+              "$kind": "Input"
+            }
+          ]
+        },
+        "$kind": "MakeMoveVec"
+      },
+      {
+        "MoveCall": {
+          "package": "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7",
+          "module": "clearing_house",
+          "function": "try_cancel_orders",
+          "typeArguments": [
+            "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+            "0x4e2df80a5e2fd0392878298c51ce15164222111ccea05504b9291b158f552677::authority::ADMIN"
+          ],
+          "arguments": [
+            {
+              "Input": 0,
+              "$kind": "Input"
+            },
+            {
+              "Input": 1,
+              "$kind": "Input"
+            },
+            {
+              "Input": 2,
+              "$kind": "Input"
+            },
+            {
+              "Result": 0,
+              "$kind": "Result"
+            }
+          ]
+        },
+        "$kind": "MoveCall"
+      },
+      {
+        "MoveCall": {
+          "package": "0x0000000000000000000000000000000000000000000000000000000000000001",
+          "module": "option",
+          "function": "none",
+          "typeArguments": [
+            "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7::account::IntegratorInfo"
+          ],
+          "arguments": []
+        },
+        "$kind": "MoveCall"
+      },
+      {
+        "MoveCall": {
+          "package": "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7",
+          "module": "clearing_house",
+          "function": "start_session",
+          "typeArguments": [
+            "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+            "0x4e2df80a5e2fd0392878298c51ce15164222111ccea05504b9291b158f552677::authority::ADMIN"
+          ],
+          "arguments": [
+            {
+              "Input": 0,
+              "$kind": "Input"
+            },
+            {
+              "Input": 1,
+              "$kind": "Input"
+            },
+            {
+              "Input": 2,
+              "$kind": "Input"
+            },
+            {
+              "Input": 5,
+              "$kind": "Input"
+            },
+            {
+              "Input": 6,
+              "$kind": "Input"
+            },
+            {
+              "Result": 2,
+              "$kind": "Result"
+            },
+            {
+              "Input": 7,
+              "$kind": "Input"
+            }
+          ]
+        },
+        "$kind": "MoveCall"
+      },
+      {
+        "MoveCall": {
+          "package": "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7",
+          "module": "clearing_house",
+          "function": "place_limit_order",
+          "typeArguments": [
+            "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC"
+          ],
+          "arguments": [
+            {
+              "Result": 3,
+              "$kind": "Result"
+            },
+            {
+              "Input": 8,
+              "$kind": "Input"
+            },
+            {
+              "Input": 9,
+              "$kind": "Input"
+            },
+            {
+              "Input": 10,
+              "$kind": "Input"
+            },
+            {
+              "Input": 11,
+              "$kind": "Input"
+            },
+            {
+              "Input": 12,
+              "$kind": "Input"
+            },
+            {
+              "Input": 13,
+              "$kind": "Input"
+            },
+            {
+              "Input": 14,
+              "$kind": "Input"
+            }
+          ]
+        },
+        "$kind": "MoveCall"
+      },
+      {
+        "MoveCall": {
+          "package": "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7",
+          "module": "clearing_house",
+          "function": "place_limit_order",
+          "typeArguments": [
+            "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC"
+          ],
+          "arguments": [
+            {
+              "Result": 3,
+              "$kind": "Result"
+            },
+            {
+              "Input": 13,
+              "$kind": "Input"
+            },
+            {
+              "Input": 15,
+              "$kind": "Input"
+            },
+            {
+              "Input": 16,
+              "$kind": "Input"
+            },
+            {
+              "Input": 11,
+              "$kind": "Input"
+            },
+            {
+              "Input": 17,
+              "$kind": "Input"
+            },
+            {
+              "Input": 13,
+              "$kind": "Input"
+            },
+            {
+              "Input": 14,
+              "$kind": "Input"
+            }
+          ]
+        },
+        "$kind": "MoveCall"
+      },
+      {
+        "MoveCall": {
+          "package": "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7",
+          "module": "clearing_house",
+          "function": "end_session",
+          "typeArguments": [
+            "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+            "0x4e2df80a5e2fd0392878298c51ce15164222111ccea05504b9291b158f552677::authority::ADMIN"
+          ],
+          "arguments": [
+            {
+              "Result": 3,
+              "$kind": "Result"
+            },
+            {
+              "Input": 1,
+              "$kind": "Input"
+            },
+            {
+              "Input": 2,
+              "$kind": "Input"
+            },
+            {
+              "Input": 8,
+              "$kind": "Input"
+            },
+            {
+              "Input": 13,
+              "$kind": "Input"
+            }
+          ]
+        },
+        "$kind": "MoveCall"
+      },
+      {
+        "MoveCall": {
+          "package": "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7",
+          "module": "clearing_house",
+          "function": "share",
+          "typeArguments": [
+            "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC"
+          ],
+          "arguments": [
+            {
+              "NestedResult": [6, 0],
+              "$kind": "NestedResult"
+            }
+          ]
+        },
+        "$kind": "MoveCall"
+      }
+    ]
+  },
+  "provenance": {
+    "endpoint": "https://graphql.mainnet.sui.io/graphql",
+    "query": "query { transactions(last: 40, filter: {affectedObject: \"0x05b5c3bea84c4b8f33cf592d899008336dcbae8c9c6c75b2f8e7b8f7878744c1\"}) { nodes { digest transactionBcs } } }",
+    "recordedAt": "2026-10-09T23:09:55.212Z",
+    "fixtureGasPrice": "100",
+    "referenceGasPrice": "100",
+    "syntheticSender": "0x00000000000000000000000000000000000000000000000000000000000a11ce",
+    "syntheticObjectIds": [
+      "0x00000000000000000000000000000000000000000000000000000000000a0001",
+      "0x00000000000000000000000000000000000000000000000000000000000a0002",
+      "0x00000000000000000000000000000000000000000000000000000000000a0005",
+      "0x00000000000000000000000000000000000000000000000000000000000a0006",
+      "0x00000000000000000000000000000000000000000000000000000000000a0007"
+    ],
+    "addressInputsReplaced": 0,
+    "commands": [
+      "MakeMoveVec",
+      "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7::clearing_house::try_cancel_orders",
+      "0x0000000000000000000000000000000000000000000000000000000000000001::option::none",
+      "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7::clearing_house::start_session",
+      "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7::clearing_house::place_limit_order",
+      "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7::clearing_house::place_limit_order",
+      "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7::clearing_house::end_session",
+      "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7::clearing_house::share"
+    ],
+    "note": "This fixture gas price is set to RGP; the gate deliberately continues requiring RGP for every order transaction. All non-market object IDs, sender, gas owner/payment references, and 32-byte pure inputs are synthetic. Command list and argument indexes are unchanged. The authority::ADMIN package in type arguments is a public package ID, retained unchanged; it is not an account-cap object ID and is not granted a MoveCall exception.",
+    "syntheticGasPaymentObjectId": "0x00000000000000000000000000000000000000000000000000000000000a9000",
+    "publicPackageIds": [
+      "0x0000000000000000000000000000000000000000000000000000000000000001",
+      "0x3ec740df8428aa9c93aaef7f8cc1542ac3194fd014826b51bfe245346d64efc7",
+      "0x4e2df80a5e2fd0392878298c51ce15164222111ccea05504b9291b158f552677",
+      "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7"
+    ]
+  }
+}

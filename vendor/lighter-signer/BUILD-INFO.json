@@ -1,0 +1,9 @@
+{
+  "repo": "https://github.com/elliottech/lighter-go",
+  "tag": "v1.0.10",
+  "commit": "9d38261d1a4cc5c7211b383ba07a4d6e41604708",
+  "goVersion": "go version go1.27.2 darwin/arm64",
+  "wasmSha256": "7fd4741c1930bff9fcbb974ee667ef81fdb6005f51f069c512efc1a4ab1b716b",
+  "wasmExecSha256": "0c949f4996f9a89698e4b5c586de32249c3b69b7baadb64d220073cc04acba14",
+  "builtAt": "2026-10-09T22:38:12Z"
+}
